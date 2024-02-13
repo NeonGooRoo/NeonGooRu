@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/NeonGooRu/docs/'
+  base: '/NeonGooRu/docs/',
   title: "NeonGoo.Ru",
   description: "О том, как учить японский эффективно и с удовольствием",
   themeConfig: {
