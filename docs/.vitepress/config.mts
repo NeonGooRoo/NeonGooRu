@@ -41,7 +41,7 @@ export default defineConfig({
       // You can also add custom icons by passing SVG as string:
       {
         icon: {
-          svg: '<svg role="img" viewBox="0 0 24 24"<title>Telegram</title><path d="docs\public\telegram.svg"/></svg>'
+          svg: '<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"<title>Telegram</title><path d="\public\telegram.svg"/></svg>'
 
 
         },
