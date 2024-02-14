@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vitepress-demo-preview/component": "^2.3.2",
-    "@vitepress-demo-preview/plugin": "^1.2.2"
+    "@vitepress-demo-preview/plugin": "^1.2.2",
+    "markdown-it-image-figures": "^2.1.1"
   }
 }
