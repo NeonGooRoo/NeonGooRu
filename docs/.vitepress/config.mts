@@ -11,14 +11,13 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Старт', link: '/' },
+      { text: 'Японский с удовольствием', link: '/how-to' },
       {
         text: 'Гайды',
         items: [
+          { text: 'Японский с удовольствием', link: '/how-to' },
           { text: 'JPDB гайд', link: '/jpdb-guide' },
-          { text: 'Item B', link: '/item-2' },
-          { text: 'Item C', link: '/item-3' }
         ]
       },
       { text: 'Config', link: '/config' },
@@ -30,16 +29,31 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Японский с удовольствием', link: '/how-to' },
+          { text: 'Гайд поJPDB', link: '/jpdb-guide' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ],
+      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'twitter', link: '...' },
+      // You can also add custom icons by passing SVG as string:
+      {
+        icon: {
+          svg: '<svg role="img" viewBox="0 0 24 24"<title>Telegram</title><path d="docs\public\telegram.svg"/></svg>'
 
+
+        },
+        link: 'https://t.me/kurutteiru',
+        // You can include a custom label for accessibility too (optional but recommended):
+        ariaLabel: 'cool link'
+      }
+
+
+
+      
+    ]
 
   }
   
