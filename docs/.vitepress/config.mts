@@ -36,8 +36,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'twitter', link: '...' },
+
       // You can also add custom icons by passing SVG as string:
       {
         icon: {
