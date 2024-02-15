@@ -47,8 +47,8 @@ export default defineConfig({
         link: 'https://t.me/kurutteiru',
         // You can include a custom label for accessibility too (optional but recommended):
         ariaLabel: 'cool link'
-      }
-
+      },
+      { icon: 'github', link: 'https://github.com/NeonGooRoo/NeonGooRu' }
 
 
       
