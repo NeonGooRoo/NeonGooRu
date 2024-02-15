@@ -8,7 +8,11 @@ export default defineConfig({
   title: "NeonGoo.Ru",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
-  themeConfig: {
+  themeConfig: 
+  
+  {
+    
+    
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Старт', link: '/' },
@@ -52,7 +56,10 @@ export default defineConfig({
 
 
       
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
 
   }
   
