@@ -7,8 +7,8 @@ hero:
   text: "О том, как учить японский эффективно и с удовольствием"
   tagline: Ваще эффективна ваще быстра
   actions:
-      - theme: alt
-      text: API Examples
+    - theme: alt
+      text: Гайд для новичков
       link: /how-to
     - theme: brand
       text: JPDB Guide
