@@ -5,21 +5,22 @@ layout: home
 hero:
   name: "NeonGoo.Ru"
   text: "О том, как учить японский эффективно и с удовольствием"
-  tagline: My great project tagline
+  tagline: Ваще эффективна ваще быстра
   actions:
+      - theme: alt
+      text: API Examples
+      link: /how-to
     - theme: brand
       text: JPDB Guide
       link: /jpdb-guide
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: ЛУЧШИ ГАЙД ВАЩЕ
+    details: Я САМ СДЕЛАЛ САЙТ
+  - title: JPDB Гайд
+    details: я писал сутки
+  - title: я потратил 1.5 часа
+    details: чтобы у меня была иконка телеграма
 ---
 
