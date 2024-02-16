@@ -31,10 +31,33 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Навигация по сайту',
         items: [
-          { text: 'Японский с удовольствием', link: '/how-to' },
-          { text: 'Гайд по JPDB', link: '/jpdb-guide' }
+          { text: 'Для начинающих', link: '/how-to' },
+          { 
+            text: 'Гайды', 
+            items: [
+              { text: 'JPDB', link: '/jpdb-guide' },
+              { text: 'Для начинающих', link: '/how-to' },
+              
+            ] 
+         },
+         { 
+          text: 'Софт', 
+          items: [
+            { text: 'Введение', link: '/software' },
+            { text: 'Yomichan', link: '/yomichan' },
+            { text: 'Anki', link: '/anki' },
+            { text: 'MPV', link: '/mpv' },
+            { text: 'ASB Player', link: '/asbplayer' },
+            { text: 'Субтитры', link: '/subtitles' },
+            { text: 'Mokuro', link: '/mokuro' },
+            { text: 'Видеоигры', link: '/vn' },
+            { text: 'Прочее', link: '/other' },
+            
+          ] 
+       },
+       { text: 'Ресурсы', link: '/resources' },
         ]
       }
     ],
