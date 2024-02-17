@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,V as o}from"./chunks/framework.DUnMl7IF.js";const f=JSON.parse('{"title":"Софт","description":"","frontmatter":{"layout":"doc","title":"Софт"},"headers":[],"relativePath":"vn.md","filePath":"vn.md"}'),n={name:"vn.md"},r=o("",4),s=[r];function _(c,l,i,d,h,p){return t(),e("div",null,s)}const m=a(n,[["render",_]]);export{f as __pageData,m as default};
