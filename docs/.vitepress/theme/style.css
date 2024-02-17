@@ -47,12 +47,12 @@
   --vp-c-default-1: #ff0000; 
   --vp-c-default-2: #8106b9;
   --vp-c-default-3: var(--vp-c-gray-3); /*кнопка гл экран справа */
-  --vp-c-default-soft: #2e4d4d;
+  --vp-c-default-soft: #1b3535;
 
   --vp-c-brand-1: #3eafaf;
   --vp-c-brand-2: #3fafaf;
   --vp-c-brand-3: #3ab1b1;
-  --vp-c-brand-soft: #62d1d1;
+  --vp-c-brand-soft: #2b5e5e;
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -68,6 +68,15 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+
+
+}
+
+.dark {
+  --vp-c-bg: #131616;  
+    --vp-c-bg-alt: #161818;
+    --vp-c-bg-elv: #202527;
+  --vp-c-bg-soft: #191f1f;
 }
 
 /**
@@ -172,3 +181,4 @@ h1 {
 .accordion p:last-child {
   margin-bottom: 0;
 }
+
