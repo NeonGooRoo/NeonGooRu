@@ -15,18 +15,36 @@ export default defineConfig({
     
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Старт', link: '/' },
       { text: 'Японский с удовольствием', link: '/how-to' },
       {
         text: 'Гайды',
         items: [
           { text: 'Японский с удовольствием', link: '/how-to' },
           { text: 'JPDB гайд', link: '/jpdb-guide' },
+          
         ]
       },
-      { text: 'Config', link: '/config' },
-      { text: 'Changelog', link: 'https://github.com/...' }
+      { 
+        text: 'Софт', 
+        items: [
+          { text: 'Введение', link: '/software' },
+          { text: 'Yomichan', link: '/yomichan' },
+          { text: 'Anki', link: '/anki' },
+          { text: 'JL', link: '/jl' },
+          { text: 'MPV', link: '/mpv' },
+          { text: 'ASB Player', link: '/asbplayer' },
+          { text: 'Субтитры', link: '/subtitles' },
+          { text: 'Видеоигры', link: '/vn' },
+          { text: 'Mokuro', link: '/mokuro' },
+          { text: 'Прочее', link: '/other' },
+          
+        ] 
+     },
+     { text: 'Changelog', link: 'https://github.com/...' },
+     { text: 'Ресурсы', link: '/resources' }
+      
     ],
+    
 
 
     sidebar: [
@@ -34,32 +52,35 @@ export default defineConfig({
         text: 'Навигация по сайту',
         items: [
           { text: 'Для начинающих', link: '/how-to' },
-          { 
-            text: 'Гайды', 
-            items: [
-              { text: 'JPDB', link: '/jpdb-guide' },
-              { text: 'Для начинающих', link: '/how-to' },
-              
-            ] 
-         },
-         { 
-          text: 'Софт', 
-          items: [
-            { text: 'Введение', link: '/software' },
-            { text: 'Yomichan', link: '/yomichan' },
-            { text: 'Anki', link: '/anki' },
-            { text: 'MPV', link: '/mpv' },
-            { text: 'ASB Player', link: '/asbplayer' },
-            { text: 'Субтитры', link: '/subtitles' },
-            { text: 'Mokuro', link: '/mokuro' },
-            { text: 'Видеоигры', link: '/vn' },
-            { text: 'Прочее', link: '/other' },
-            
-          ] 
-       },
-       { text: 'Ресурсы', link: '/resources' },
         ]
-      }
+      },
+     { 
+      text: 'Софт', 
+      items: [
+        { text: 'Введение', link: '/software' },
+        { text: 'Yomichan', link: '/yomichan' },
+        { text: 'Anki', link: '/anki' },
+        { text: 'JL', link: '/jl' },
+        { text: 'MPV', link: '/mpv' },
+        { text: 'ASB Player', link: '/asbplayer' },
+        { text: 'Субтитры', link: '/subtitles' },
+        { text: 'Видеоигры', link: '/vn' },
+        { text: 'Mokuro', link: '/mokuro' },
+        { text: 'Прочее', link: '/other' },
+        
+      ] 
+   },
+   { 
+    text: 'Гайды', 
+    items: [
+      { text: 'JPDB', link: '/jpdb-guide' },
+      { text: 'Для начинающих', link: '/how-to' },
+      { text: 'Как фокусироваться', link: '/focus' },
+      { text: 'Письмо', link: '/handwriting' },
+      
+    ] 
+ },
+    { text: 'Ресурсы', link: '/resources' },
     ],
 
     socialLinks: [
