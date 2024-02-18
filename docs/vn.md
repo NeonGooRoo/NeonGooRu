@@ -30,7 +30,7 @@ title: Визуальные новеллы и игры
 
 При запуске у вас будут различные всплывшие окна, их можно закрыть нажатием `Esc`. Нажмите на **Extentions**, там нужно удалить нажатием `Delete` все лишнее, чтобы остались `Copy to Clipboard` и `Remove Repeated Characters`
 
-![An image](public/textractor.png)
+![An image](public/Textractor.png)
 
 ### Использование
 
