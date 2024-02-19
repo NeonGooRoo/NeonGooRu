@@ -92,7 +92,7 @@ export default defineConfig({
 
 
         },
-        link: 'https://t.me/kurutteiru',
+        link: 'https://t.me/neongooru',
         // You can include a custom label for accessibility too (optional but recommended):
         ariaLabel: 'cool link'
       },
