@@ -8,7 +8,7 @@ title: Ресурсы
 
 # Введение
 
-Всевозможные источники контента на японском. Если у вас есть предложения - сообщите мне через [ТГ](https://t.me/kurutteiru) или [GitHub](https://github.com/NeonGooRoo/NeonGooRu).
+Всевозможные источники контента на японском. Если у вас есть предложения - сообщите мне через [ТГ](https://t.me/kurutteiru) или [GitHub](https://github.com/NeonGooRoo/NeonGooRu). Советую прочитать все, тут могут быть вещи, о которых вы даже и не догадывались.
 
 -----
 
@@ -27,6 +27,7 @@ title: Ресурсы
 [日本 Resources](https://docs.google.com/spreadsheets/d/1O5ZtAMPoMA8cl15oSc_E3LBODEKhC2-fmTKwoSiHaTk/edit#gid=2089349054) - рандомный список ресурсов, довольно старый, но может есть что-то полезное.
 
 [Rentry Resources](https://rentry.co/japanese_resources)
+
 ## Информация о японском
 
 ### Словари и переводчики
@@ -76,6 +77,8 @@ title: Ресурсы
 [BunPro](https://bunpro.jp/grammar_points)  [E] - очень удобный сайт с японскй
 
 [Maggie Sensei](https://maggiesensei.com/) [E] - сайт с кучей грамматики и прочих приколов про яп
+
+[Tofugu](https://www.tofugu.com/japanese/best-kanji-learning-programs/) [E] - сайт с инфой больше для начинающих, много разных интересных вещей
 
 ### Лингвистика
 
@@ -222,24 +225,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [nihongoyopta](https://vk.com/nihongoyopta) - паблик о всяком японском.
 
-### 
+[Big in Japan](https://t.me/big_in_japan_youtube) - канал с видео на японском, у которых в ручную сделанные субтитры (не автоматические, то есть точные)
 
 ### 
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
