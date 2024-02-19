@@ -35,7 +35,7 @@ export default defineConfig({
           { text: 'ASB Player', link: '/asbplayer' },
           { text: 'Субтитры', link: '/subtitles' },
           { text: 'Видеоигры', link: '/vn' },
-          { text: 'Mokuro', link: '/mokuro' },
+          { text: 'OCR инструменты', link: '/ocr-tools' },
           { text: 'Прочее', link: '/other' },
           
         ] 
@@ -65,7 +65,7 @@ export default defineConfig({
         { text: 'ASB Player', link: '/asbplayer' },
         { text: 'Субтитры', link: '/subtitles' },
         { text: 'Видеоигры', link: '/vn' },
-        { text: 'Mokuro', link: '/mokuro' },
+        { text: 'OCR инструменты', link: '/ocr-tools' },
         { text: 'Прочее', link: '/other' },
         
       ] 
@@ -76,6 +76,7 @@ export default defineConfig({
       { text: 'JPDB', link: '/jpdb-guide' },
       { text: 'Для начинающих', link: '/how-to' },
       { text: 'Как фокусироваться', link: '/focus' },
+      { text: 'Вести учет времени', link: '/activitywatch' },
       { text: 'Письмо', link: '/handwriting' },
       
     ] 

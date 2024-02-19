@@ -4,9 +4,13 @@ title: asbplayer
 
 ---
 
+Статья новая, если замечены ошибки или есть рекомендации, пишите [сюда](https://t.me/neongooru)
+
 # Введение
 
 **ASB Player** - альтернатива **MPV** 
+
+Данная инструкция сделана с рассчетом, что Anki настроен по [это гайду](/anki.md)
 
 Плюсы: 
 - Можно смотреть и майнить онлайн видео.
@@ -38,7 +42,9 @@ title: asbplayer
 
 Скачайте [расширение](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab).
 
-Скачайте [данный файл](https://drive.google.com/file/d/12Hzha38N5ikmtnlXXlpJPuWHdLDTCz9N/view?usp=drive_link) с настройками плеера.
+Скачайте <a href="/public/asbplayer-settings.json" download>
+  данный файл
+</a> с настройками плеера.
 
 ## Настройка
 
@@ -50,6 +56,8 @@ title: asbplayer
 Нажмите на шестеренку, там слева нажмите **MISC**, нам нужно **IMPORT SETTINGS** и выберите скачанный файл. 
 
 Вы можете под себя настроить размер субтитров в разделе **SUBTITLE APPEARANCE**. 
+
+Если вы хотите использовать `asbplayer` с колодой не по формату [гайда Anki](anki.md), то вам нужно открыть файл раздел **ANKI** и изменить названия полей на те, которые поодойдут под ваш формат карточки.
 
 Теперь зайдит в рапздел **KEYBOARD SHORTCUTS** и тыкните по карандашику справа сверху, у вас должны открыться новая вкладка с настройками. Нам нужны только две последние.
 
