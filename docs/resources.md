@@ -4,7 +4,7 @@ title: Ресурсы
 
 ---
 
-Статья новая, если замечены ошибки или есть рекомендации, пишите [сюда](https://t.me/+0FenFqgmSOsxNmRi)
+Статья новая, если замечены ошибки или есть рекомендации, пишите [сюда](https://t.me/neongooru)
 
 # Введение
 
@@ -104,7 +104,7 @@ title: Ресурсы
 
 [JPDB.io](https://jpdb.io/prebuilt_decks) - куча разного контента по сложности, но сложность измеряется только в плане лексики. Также алгоритм дает сильную фору более коротким произведениям, но есть куча настроек.
 
-### Субтитры.
+### Субтитры
 
 [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - главный источник субтитров для аниме на японском. Там есть почти все.
 
@@ -130,7 +130,7 @@ title: Ресурсы
 
 [Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).  С японского VPN больше контента на японском.
 
-### Дорамы\Кино.
+### Дорамы\Кино
 
 [Рутрекер](https://rutracker.org/forum/index.php) - можно найти некоторые дорамы и фильмы
 
@@ -177,7 +177,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Rawkuma](https://rawkuma.com/) - можно скачивать и читать онлайн.
 
-### Литература.
+### Литература
 
 [YomuJP](https://yomujp.com/) - адаптированные тексты
  
@@ -216,6 +216,10 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 [Condensed Audio 2](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)
 
 [Condensed Audio 3](https://condensedaudiocatalog.com/#)
+
+### Подкасты и радио
+
+[Google Podcast](https://podcasts.google.com/?hl=ja) - японская версия сайта, сразу выскакивают рекмоендации на японском.
 
 ### Может быть интересно
 
