@@ -40,7 +40,6 @@ export default defineConfig({
           
         ] 
      },
-     { text: 'Changelog', link: 'https://github.com/...' },
      { text: 'Ресурсы', link: '/resources' }
       
     ],
