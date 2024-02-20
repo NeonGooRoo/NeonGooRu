@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import anchor from 'markdown-it-anchor'
 import imageFigures from 'markdown-it-image-figures';
 
 // https://vitepress.dev/reference/site-config
@@ -7,6 +8,15 @@ export default defineConfig({
   lang: 'ru-RU',
   title: "NeonGoo.Ru",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  
+  markdown: {
+    anchor: {
+      permalink: anchor.permalink.ariaHidden({ // you can use other variants too, refer - https://github.com/valeriangalliat/markdown-it-anchor#permalinks
+        symbol: `点`
+      })
+    }
+  },
+
 
   themeConfig: 
   
