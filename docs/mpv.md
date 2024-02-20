@@ -35,7 +35,6 @@ MPV плеер это опен-сорс программа, на которую 
 Сначала нужно скачать MPV. У него множество версий на [официальном сайте](https://mpv.io/installation/), самый простой вариант [тут](https://sourceforge.net/projects/mpv-player-windows/files/64bit-v3/). Скачиваете самый последний архив. Теперь в вашей папочке для программ, которую вы создали заранее, создаете папку MPV и выгружаете туда содержимое архива.
 
 Теперь откройте `C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\` введя `%AppData%` в поиск Windows или в адресную строку в любой папочке. В неё выложите папочку `mpv` из [данного архива](https://drive.google.com/file/d/12Ejx5RsWIjnA5kgLV-jj3_atXBaMa6D3/view?usp=drive_link)
-</a> .
 
 Если вы на Mac, вам нужно открыть `~/Library/Application Support/`
 
