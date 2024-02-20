@@ -197,3 +197,10 @@ h1 {
   text-decoration: none;
   transition: color 0.25s, opacity 0.25s;
 }
+
+.vp-doc blockquote > p {
+  margin: 0;
+  font-size: 16px;
+  color: #81dbd7;
+  transition: color 0.5s;
+}
