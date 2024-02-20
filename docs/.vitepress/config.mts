@@ -9,13 +9,7 @@ export default defineConfig({
   title: "NeonGoo.Ru",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   
-  markdown: {
-    anchor: {
-      permalink: anchor.permalink.ariaHidden({ // you can use other variants too, refer - https://github.com/valeriangalliat/markdown-it-anchor#permalinks
-        symbol: `点`
-      })
-    }
-  },
+
 
 
   themeConfig: 

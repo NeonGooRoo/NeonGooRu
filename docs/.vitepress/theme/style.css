@@ -182,3 +182,18 @@ h1 {
   margin-bottom: 0;
 }
 
+:root {
+  --vp-header-anchor-symbol: '点';
+}
+
+.vp-doc .header-anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: -1.1em;
+  font-weight: 100;
+  user-select: none;
+  opacity: 0;
+  text-decoration: none;
+  transition: color 0.25s, opacity 0.25s;
+}
