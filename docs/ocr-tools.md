@@ -66,7 +66,7 @@ title: Софт
 
 когда вы только запускаете установщик, ОБЯЗАТЕЛЬНО поставьте галочку о добавлении Python в PATH
 
-![alt text](python.png)
+![alt text](public/python.png)
 
 :::
 
