@@ -71,7 +71,7 @@ title: Йомичан
 
 ## Настройки
 
-Теперь нужно промотать вниз до **Import settings** и загрузить `Yomichan-settings.json`. 
+Теперь нужно промотать вниз до **Import settings** и загрузить `Yomichan-settings.json`.  Игнорируйте ошибку, нажимайте на красную кнопку **Import**.
 
 Если вы на **Android**, сразу после импорта, в самом верху настроек нужно `Default Profile` и `Editing Profile` изменить с **ПК** на **Android**.
 
