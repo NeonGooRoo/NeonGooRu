@@ -34,8 +34,7 @@ title: Как фокусироваться
  
 [Stayfocusd](https://www.stayfocusd.com/) - расширение для браузера, бесплатно, блок сайтов.
 
-[Cold Turkey](https://getcoldturkey.com/)- платно (или <a href="/public/mpv.zip" download>
-  тут </a>  бесплатно:innocent::innocent::innocent:. Следуйте инструкции в README), можно блокировать и сайты и приложения на **Windows**.
+[Cold Turkey](https://getcoldturkey.com/)- платно (или [тут](https://drive.google.com/file/d/1Tlk9WFRdzKKRhWBaLU-5eG_Q3RLVJEM2/view?usp=drive_link) бесплатно:innocent::innocent::innocent:. Следуйте инструкции в README), можно блокировать и сайты и приложения на **Windows**.
 
 [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en&gl=US) - ограничение приложений (и сайтов через **Chrome**) по времени на **Android**. Также на **Android** можно использовать режим фокусировки, он блокирует определенные приложения, можно его настроить с таймером (легко обходится).
 

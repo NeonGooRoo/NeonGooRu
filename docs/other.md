@@ -38,7 +38,7 @@ title: Прочее
 
 Для работы программы вам нужно скачать [Java](https://www.java.com/download/ie_manual.jsp).
 
-Теперь скачайте <a href="/public/AozoraEpub.zip" download>  AozoraEpub</a> и разархивируйте в папочку. Запустите программу через `AozoraEpub3.jar`.
+Теперь скачайте [AozoraEpub](https://drive.google.com/file/d/1EUYv208k1DEeT-3M7cvHT2xdW-2pNE2r/view?usp=drive_link) и разархивируйте в папочку. Запустите программу через `AozoraEpub3.jar`.
 
 Выберите файл и запустите обработку как показано на картинке:
 
