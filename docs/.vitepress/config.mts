@@ -8,7 +8,7 @@ export default defineConfig({
   lang: 'ru-RU',
   title: "NeonGoo.Ru",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  
+  description: 'Японский легко и с удовольствием',
 
 
 
