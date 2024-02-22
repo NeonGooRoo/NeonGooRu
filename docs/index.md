@@ -7,7 +7,7 @@ hero:
   text: О том, как учить японский эффективно и с удовольствием
   tagline: Ваще эффективна ваще быстра
   image:
-    src: /rei.webp
+    src: /rei.png
     alt: VitePress
   actions:
     - theme: alt

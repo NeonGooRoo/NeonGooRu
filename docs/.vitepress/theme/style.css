@@ -252,3 +252,8 @@ h1 {
     flex-shrink: 0;
   }
 }
+
+.image-bg[data-v-72cc4481] {
+  width: 520px;
+  height: 520px;
+}
