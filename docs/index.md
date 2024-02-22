@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "NeonGoo.Ru"
-  text: "О том, как учить японский эффективно и с удовольствием"
+  name: NeonGoo.Ru
+  text: О том, как учить японский эффективно и с удовольствием
   tagline: Ваще эффективна ваще быстра
+  image:
+    src: /rei.webp
+    alt: VitePress
   actions:
     - theme: alt
       text: Гайд для новичков

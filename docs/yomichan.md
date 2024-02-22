@@ -5,9 +5,9 @@ title: Йомичан
 
 Статья новая, если замечены ошибки или есть рекомендации, пишите [сюда](https://t.me/neongooru)
 
-# Введение
 
-**Yomichan** (или теперь Yomitan) - очень удобное расширение, позволяющее по наведению мыши смотреть значения практически любого слова. Поддерживает кучу словарей, а также позволяет майнить слова. Работает на ПК и **Android**
+
+[**Yomichan**](/yomichan.html#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0) (или теперь Yomitan) - очень удобное расширение, позволяющее по наведению мыши смотреть значения практически любого слова. Поддерживает кучу словарей, а также позволяет майнить слова. Работает на ПК и **Android**
 
 Данная инструкция сделана с расчетом, что Anki настроен по [это гайду](/anki.md)
 
@@ -20,7 +20,7 @@ title: Йомичан
 
 -----
 
-# Содержание 
+ 
 
 [[toc]]
 
@@ -30,15 +30,19 @@ title: Йомичан
 
 **Yomitan** можно скачать для [Chrome](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) и [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/).
 
+Сразу обе ссылки ниже скопируйте и откройте в новых вкладках: 
+
+`chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/permissions.html` 
+`chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn`
+
 ### Android
 
 Расширения поддерживаются только через [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US), поэтому необходимо скачать его.
 
 Далее скачиваем расширение [Yomitan](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)
 
-Сразу обе ссылки ниже скопируйте и откройте в новых вкладках: 
+Вставляете ссылку ниже в адресную строку:
 
-`chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/permissions.html` 
 `chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn` 
 
 Если не работает, откройте список расширений и зайдите в настройки **Yomitan** вручную. Дайте, желательно, все разрешения. Как минимум **Allow access to file URLs** нужно для работы **Yomitan** в файлах и **Persistent storage** чтобы ваши словари случайно не удалились. ЭТО НЕ НАСТРОЙКИ **ЙОМИТАН** КОТОРЫЕ САМИ ОТКРЫЛИСЬ ПОСЛЕ УСТАНОВКИ.

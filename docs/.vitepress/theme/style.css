@@ -68,6 +68,7 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+  scroll-behavior: smooth
 
 
 }
@@ -203,4 +204,51 @@ h1 {
   font-size: 16px;
   color: #81dbd7;
   transition: color 0.5s;
+}
+
+.image-src {
+  max-width: 520px;
+  max-height: 520px;
+}
+
+.image-bg[data-v-72cc4481] {
+    width: 320px;
+    height: 320px;
+}
+
+[data-v-72cc4481] .image-src {
+  max-width: 512px;
+  max-height: 512px;
+}
+
+.image[data-v-72cc4481] {
+  margin: 
+  00 -24px -50px;
+}
+
+.image-container[data-v-72cc4481] {
+  width: 512px;
+  height: 512px;
+}
+
+.main[data-v-72cc4481] {
+  position: relative;
+  margin: 
+  0px 0px 0px;
+  z-index: 10;
+  order: 2;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+
+@media all and (min-width:0px) and (max-width: 1000px) {
+  .main[data-v-72cc4481] {
+    position: relative;
+    margin: 
+    65px 0px 0px;
+    z-index: 10;
+    order: 2;
+    flex-grow: 1;
+    flex-shrink: 0;
+  }
 }

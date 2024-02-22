@@ -21,11 +21,13 @@ export default defineConfig({
     nav: [
       { text: 'Японский с удовольствием', link: '/how-to' },
       {
-        text: 'Гайды',
+        text: 'Гайды', 
         items: [
-          { text: 'Японский с удовольствием', link: '/how-to' },
-          { text: 'JPDB гайд', link: '/jpdb-guide' },
-          
+          { text: 'JPDB', link: '/jpdb-guide' },
+          { text: 'Для начинающих', link: '/how-to' },
+          { text: 'Как фокусироваться', link: '/focus' },
+          { text: 'Вести учет времени', link: '/activitywatch' },
+          { text: 'Письмо', link: '/handwriting' },
         ]
       },
       { 
