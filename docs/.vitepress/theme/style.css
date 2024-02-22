@@ -211,27 +211,27 @@ h1 {
   max-height: 520px;
 }
 
-.image-bg[data-v-72cc4481] {
+.image-bg {
     width: 320px;
     height: 320px;
 }
 
-[data-v-72cc4481] .image-src {
+.image-src {
   max-width: 512px;
   max-height: 512px;
 }
 
-.image[data-v-72cc4481] {
+.image {
   margin: 
   00 -24px -50px;
 }
 
-.image-container[data-v-72cc4481] {
+.image-container {
   width: 512px;
   height: 512px;
 }
 
-.main[data-v-72cc4481] {
+.main {
   position: relative;
   margin: 
   0px 0px 0px;
@@ -242,7 +242,7 @@ h1 {
 }
 
 @media all and (min-width:0px) and (max-width: 1000px) {
-  .main[data-v-72cc4481] {
+  .main {
     position: relative;
     margin: 
     65px 0px 0px;
@@ -253,7 +253,7 @@ h1 {
   }
 }
 
-.image-bg[data-v-72cc4481] {
+.image-bg {
   width: 520px;
   height: 520px;
 }
