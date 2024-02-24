@@ -38,7 +38,7 @@ title: Анки
 
 Для извлечения максимум удобства и функционала из анки, нам нужно использовать аддоны (дополнения). Чтобы не скачивать вам их вручную, я сохранил сразу пачку в виде файлов.
 
-Скачайте [данный архив](https://drive.google.com/file/d/12ftNxfUQxw1JLI3KCor9-uYbA_O7hWBp/view?usp=drive_link) с аддонами, и перенесите папку `Addons21`
+Скачайте [данный архив](https://drive.google.com/file/d/12ftNxfUQxw1JLI3KCor9-uYbA_O7hWBp/view?usp=sharing) с аддонами, и перенесите папку `Addons21`
 
 `C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2`. 
 
