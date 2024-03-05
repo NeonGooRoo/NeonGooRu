@@ -97,7 +97,7 @@ export default defineConfig({
 
 
         },
-        link: 'https://t.me/neongooru',
+        link: 'https://t.me/kurutteiru',
         ariaLabel: 'cool link'
       },
       { icon: 'github', link: 'https://github.com/NeonGooRoo/NeonGooRu' },
