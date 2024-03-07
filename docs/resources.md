@@ -108,6 +108,8 @@ title: Ресурсы
 
 [HiNative](https://hinative.com/) - сайт для вопросов про любые языки, задавать вопросы надо либо на англ либо на япе.
 
+[Asian Languages Learning](https://discord.gg/asian-languages-learning-russian-japanese-chinese-341333537326235649) - Discord канал с кучей людей и разделом под Японский.
+
 ## Контент на японском
 
 ### Подбор контента по уровню

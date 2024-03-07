@@ -1,13 +1,32 @@
 import { defineConfig } from 'vitepress'
 import anchor from 'markdown-it-anchor'
 import imageFigures from 'markdown-it-image-figures';
+import Giscus from '@giscus/vue';
+
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
   lang: 'ru-RU',
   title: "NeonGoo.Ru",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=TAG_ID' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'TAG_ID');`
+    ]
+  ],
+
+
   description: 'Японский легко и с удовольствием',
 
 
@@ -126,8 +145,10 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
-    }
+    },
+    
 
   }
   
 })
+

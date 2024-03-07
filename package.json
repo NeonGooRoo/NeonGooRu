@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "@docsearch/js": "^3.5.2",
+    "@giscus/vue": "^3.0.0",
     "@vitepress-demo-preview/component": "^2.3.2",
     "@vitepress-demo-preview/plugin": "^1.2.2",
+    "download": "^8.0.0",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-image-figures": "^2.1.1"
   }
