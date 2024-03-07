@@ -14,15 +14,16 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     [
       'script',
-      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=TAG_ID' }
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-G6HDTB0VXG' }
     ],
     [
       'script',
       {},
-      `window.dataLayer = window.dataLayer || [];
+      ` window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'TAG_ID');`
+    
+      gtag('config', 'G-G6HDTB0VXG');`
     ]
   ],
 
