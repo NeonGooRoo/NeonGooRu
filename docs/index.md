@@ -27,3 +27,18 @@ features:
     details: чтобы у меня была иконка телеграма (я не придумал че писать)
 ---
 
+<script src="https://giscus.app/client.js"
+        data-repo="neongooroo/neongooru"
+        data-repo-id="R_kgDOLRM99A"
+        data-category="General"
+        data-category-id="DIC_kwDOLRM99M4Cdyoi"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async>
+</script>
