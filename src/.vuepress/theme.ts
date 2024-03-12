@@ -70,9 +70,9 @@ export default hopeTheme({
   },
 
   plugins: {
-    
-    blog: true,
 
+    blog: true,
+/*
     docsearch: {
       appId: "",
       apiKey: "",
@@ -95,7 +95,7 @@ export default hopeTheme({
           },
         },
       },
-    },
+    }, */
 
     copyright: {
       global: true,
