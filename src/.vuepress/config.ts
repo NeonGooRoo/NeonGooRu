@@ -5,7 +5,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
-  base: "/",
+  base: "/neongooru/",
 
   locales: {
     "/en/": {
