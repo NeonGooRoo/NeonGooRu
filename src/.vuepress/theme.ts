@@ -231,7 +231,7 @@ export default hopeTheme({
     //       {
     //         name: "Demo",
     //         short_name: "Demo",
-    //         url: "/demo/",
+    //         url: "/demo/", 
     //         icons: [
     //           {
     //             src: "/assets/icon/guide-maskable.png",
