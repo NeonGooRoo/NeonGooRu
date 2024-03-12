@@ -1,15 +1,16 @@
 ---
-title: VN
-shortTitle: Yomitan
-description: Установка и настройка Yomitan
-icon: "/ico/yomitan.svg"
+title: Субтитры
+shortTitle: Сбутт
+description: description
+icon: "/ico/subtitles.svg"
 category: 
- - инструменты
+ - category
 tag:
- - обязательное
+ - tag1
+ - tag2
 Date: 08-03-2024
-ReadingTime: 10
-
+Tag: bruh
+ReadingTime: 100 min.
 ---
 
 Статья новая, если замечены ошибки или есть рекомендации, пишите [сюда](https://t.me/neongooru)
