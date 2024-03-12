@@ -1,6 +1,14 @@
 ---
-
-title: Субтитры
+title: VN
+shortTitle: Yomitan
+description: Установка и настройка Yomitan
+icon: "/ico/yomitan.svg"
+category: 
+ - инструменты
+tag:
+ - обязательное
+Date: 08-03-2024
+ReadingTime: 10
 
 ---
 
