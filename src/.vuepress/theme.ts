@@ -147,9 +147,9 @@ export default hopeTheme({
       vPre: true,
       
 
-      revealJs: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-        },
+      ///revealJs: {
+      ///  plugins: ["highlight", "math", "search", "notes", "zoom"],
+      ///  },
 
 
       // install chart.js before enabling it
