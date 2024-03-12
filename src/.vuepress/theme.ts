@@ -236,7 +236,7 @@ export default hopeTheme({
     //           {
     //             src: "/assets/icon/guide-maskable.png",
     //             sizes: "192x192",
-    //             purpose: "maskable",
+    //             purpose: "maskable", 
     //             type: "image/png",
     //           },
     //         ],
