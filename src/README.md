@@ -2,27 +2,27 @@
 home: true
 icon: home
 title: Project home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+heroImage: /imgvid/rei.png
+bgImage: /imgvid/bg4.png 
+
 bgImageStyle:
   background-attachment: fixed
-heroText: Project name
-tagline: You can place the description of the project here.
+heroText: Японский учить легко
+tagline: На этом сайте вы найдете как его учить, извлекая максимум удовольствия и пользы
 actions:
-  - text: How to Use
-    icon: lightbulb
-    link: ./demo/
+  - text: Для новичков
+
+    link: ./how-to.md
     type: primary
 
-  - text: Docs
-    link: ./guide/
+  - text: Программы для японского
+    link: ./software/
 
 highlights:
-  - header: Easy to install
+  - header: Полностью на русском!
     image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    bgImage: /imgvid/bg4dd.png
+    bgImageDark: \imgvid\bg4dd.jpg
     highlights:
       - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
       - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
