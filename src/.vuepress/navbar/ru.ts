@@ -8,7 +8,7 @@ export const ruNavbar = navbar([
   },
   {
     text: "Для начинающих",
-    link: "how-to.md",
+    link: "/guide/how-to.md",
   },
   {
     text: "Гайды",
