@@ -72,8 +72,23 @@ export default hopeTheme({
   },
 
   plugins: {
-
+    
     blog: true,
+    searchPro: {
+        
+          locales: {
+            "/": {
+              lang: "ru-RU",
+            },
+    
+            "/en/": {
+              lang: "en-US",
+            },
+          },
+        
+      },
+
+
 /*
     docsearch: {
       appId: "",
