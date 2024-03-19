@@ -1,6 +1,20 @@
 // you can change colors here
-$theme-color: #00a5a5;
+$theme-color: #00c0ce;
 $bg-color: (
     light: #fff,
     dark: #0b151a,
   );
+
+  #main-title {
+     margin: 0.5rem 0; 
+    background: linear-gradient(120deg, var(--theme-color-light), var(--theme-color) 30%, #a500a0 100%);
+    -webkit-background-clip: text; 
+    background-clip: text; 
+     font-weight: bold; 
+     font-size: 3.6rem; 
+     font-family: var(--font-family); 
+     line-height: 1.5; 
+     -webkit-text-fill-color: transparent; 
+}
+
+$font-family-heading: "Raleway";

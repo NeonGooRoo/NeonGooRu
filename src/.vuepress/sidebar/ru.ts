@@ -11,7 +11,7 @@ export const ruSidebar = sidebar({
         {
           text: "JPDB",
           icon: "/ico/jpdb.png",
-          link: "jpdb-guide",
+          link: "jpdb",
         },
         {
           text: "Как фокусироваться",
@@ -34,15 +34,17 @@ export const ruSidebar = sidebar({
           link: "mext",
         },
       ],
+      
     },
+  
     {
       text: "Софт",
       collapsible: true,
       prefix: "/guide/",
       children: [
         {
-          text: "JPDB",
-          icon: "/ico/jpdb.png",
+          text: "Введение",
+          icon: "/ico/",
           link: "README.md",
         },
         {
@@ -86,6 +88,11 @@ export const ruSidebar = sidebar({
           link: "jidoujisho",
         },
         {
+          text: "ActivityWatch",
+          icon: "/ico/aw.png",
+          link: "activitywatch",
+        },
+        {
           text: "OCR Инструменты",
           icon: "/ico/ocr.svg",
           link: "ocr-tools",
@@ -97,9 +104,12 @@ export const ruSidebar = sidebar({
         },
   
       ],
+      
     },
 
+
   ], 
+
   "/software/": "structure",
   
 });

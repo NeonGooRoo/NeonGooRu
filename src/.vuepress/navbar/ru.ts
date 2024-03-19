@@ -52,6 +52,10 @@ export const ruNavbar = navbar([
     text: "Ресурсы",
     link: "resources",
   },
+  {
+    text: "Лента",
+    link: "/blog/",
+  },
 ]);
 
 

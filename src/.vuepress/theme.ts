@@ -16,6 +16,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
+  
 
   logo: "/ico/logo.png",
 
@@ -26,7 +27,11 @@ export default hopeTheme({
 
   print: false,
 
-
+  navbarLayout: {
+    start: ["Brand"],
+    center: ["Links"],
+    end: ["Language", "Repo", "Outlook", "Search"],
+  },
 
   locales: {
     "/en/": {
