@@ -1,6 +1,8 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const ruNavbar = navbar([
+
+  
   {
     text: "Старт",
     icon: "home",

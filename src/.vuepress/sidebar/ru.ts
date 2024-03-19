@@ -1,16 +1,48 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const ruSidebar = sidebar({
-  "/": [
+  "/":  [
     "",
+    "guide/how-to",
     {
-      text: "Софт",
-      prefix: "/software/",
-      link: "/software/",
+      text: "Гайды",
+      prefix: "/guide/",
       children: [
         {
-          text: "Введение",
-          icon: "/ico/start.svg",
+          text: "JPDB",
+          icon: "/ico/jpdb.png",
+          link: "jpdb-guide",
+        },
+        {
+          text: "Как фокусироваться",
+          icon: "/ico/focus.svg",
+          link: "focus",
+        },
+        {
+          text: "Учет времени 🚧",
+          icon: "/ico/timer.svg",
+          link: "timetracking",
+        },
+        {
+          text: "Письмо 🚧",
+          icon: "/ico/writing.svg",
+          link: "handwriting",
+        },
+        {
+          text: "MEXT 🚧",
+          icon: "/ico/school.svg",
+          link: "mext",
+        },
+      ],
+    },
+    {
+      text: "Софт",
+      collapsible: true,
+      prefix: "/guide/",
+      children: [
+        {
+          text: "JPDB",
+          icon: "/ico/jpdb.png",
           link: "README.md",
         },
         {
@@ -67,5 +99,7 @@ export const ruSidebar = sidebar({
       ],
     },
 
-  ],
+  ], 
+  "/software/": "structure",
+  
 });

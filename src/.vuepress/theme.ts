@@ -12,7 +12,7 @@ export default hopeTheme({
     url: "https://t.me/neongooroo",
   },
 
-
+  favicon: "/favicon.ico",
 
   iconAssets: "fontawesome-with-brands",
 
@@ -35,7 +35,6 @@ export default hopeTheme({
 
       sidebar: enSidebar,
 
-      footer: "Default footer",
 
       displayFooter: true,
 
@@ -52,12 +51,10 @@ export default hopeTheme({
 
       sidebar: ruSidebar,
 
-      footer: "bebra",
-
       displayFooter: true,
 
       metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
+        editLink: "Редактировать данную страницу на GitHub",
       },
     },
   },

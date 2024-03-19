@@ -1,16 +1,14 @@
 ---
 title: title
-shortTitle: shorttitle
-description: description
-icon: icon
-category: 
- - category
+shortTitle: ti
+description: 1
+icon: 1
+category: 1
+ - 1
 tag:
- - tag1
- - tag2
-Date: 08-03-2024
-Tag: bruh
-ReadingTime: 100 min.
+ - sd
+Date: 
+ReadingTime: 
 ---
 
 
