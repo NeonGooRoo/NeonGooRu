@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Project home
+title: Домашняя страница
 heroImage: imgvid\rei.png
 bgImage: https://i.imgur.com/iYI9m8H.png
 bgImageDark: https://i.imgur.com/xa4XJli.png
@@ -9,6 +9,7 @@ bgImageStyle:
   background-attachment: fixed
 heroText: Японский язык - легко! 
 tagline: Здесь можно найти всю информацию о том, как и почему нужно учить японский потребляя контент.
+description: Сайт об учебе японского эффективно и с удовольствием!
 actions:
   - text: Для новичков
 
@@ -29,7 +30,7 @@ highlights:
 
   - header: Куча программ для погружения!
     description: С помощью софта можно упростить потребление контента за счет моментального подсмотра слов, систематизации заучивания и прочих прелестей.
-    image: /assets/image/markdown.svg
+
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
