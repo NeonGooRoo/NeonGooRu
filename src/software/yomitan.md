@@ -14,7 +14,7 @@ Date: 08-03-2024
 ReadingTime: 10
 order: 1
 headerDepth: 1
-redirectFrom: yomitan
+redirectFrom: /yomitan.html
 ---
 
 

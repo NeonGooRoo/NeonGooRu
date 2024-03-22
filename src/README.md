@@ -13,7 +13,7 @@ description: Сайт об учебе японского эффективно и
 actions:
   - text: Для новичков
 
-    link: ./how-to.md
+    link: ./guide/how-to.md
     type: primary
 
   - text: Программы для японского

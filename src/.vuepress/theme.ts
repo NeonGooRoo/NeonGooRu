@@ -126,7 +126,7 @@ export default hopeTheme({
       repoId: "R_kgDOLRM99A",
       category: "General",
       categoryId: "DIC_kwDOLRM99M4Cdyoi",
-      
+      mapping: "title",
     },
 
     components: {
