@@ -40,7 +40,7 @@ export const ruSidebar = sidebar({
     {
       text: "Софт",
       collapsible: true,
-      prefix: "/guide/",
+      prefix: "/software/",
       children: [
         {
           text: "Введение",
