@@ -125,7 +125,9 @@ ReadingTime:
 
 ### Субтитры
 
-[Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - главный источник субтитров для аниме на японском. Там есть почти все.
+[Jimaku](https://jimaku.cc/) - новый сервис, основной источник субтитров для аниме на японском. Там есть почти все. В нем содержится база Китсунеко, но он гораздо удобнее.
+
+[Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - устаревшее Jimaku
 
 [Japanese Movie Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) - директория с субтитрами для фильмов, сортированная по режиссерам.
 
