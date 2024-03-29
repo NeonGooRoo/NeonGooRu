@@ -123,7 +123,9 @@ ReadingTime:
 
 [JPDB.io](https://jpdb.io/prebuilt_decks) - куча разного контента по сложности, но сложность измеряется только в плане лексики. Также алгоритм дает сильную фору более коротким произведениям, но есть куча настроек.
 
-### Субтитры
+### Видеоконтент
+
+#### Субтитры
 
 [Jimaku](https://jimaku.cc/) - новый сервис, основной источник субтитров для аниме на японском. Там есть почти все. В нем содержится база Китсунеко, но он гораздо удобнее.
 
@@ -139,7 +141,7 @@ ReadingTime:
 
 [D Addicts](https://www.d-addicts.com/) - форум по дорамам, есть шанс найти там.
 
-### Аниме
+#### Аниме
 
 [Рутрекер](https://rutracker.org/forum/index.php) - без лишних слов
 
@@ -151,7 +153,7 @@ ReadingTime:
 
 [Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).  С японского VPN больше контента на японском.
 
-### Дорамы\Кино
+#### Дорамы\Кино
 
 [Рутрекер](https://rutracker.org/forum/index.php) - можно найти некоторые дорамы и фильмы
 
@@ -170,7 +172,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Raredoramas](https://raredoramas.info/) - Для “редких” дорам.
 
-### Японское ТВ онлайн
+#### Японское ТВ онлайн
 
 [aqstream](https://aqstream.com/jp) - Японское ТВ
 
@@ -178,9 +180,11 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [TVer](https://tver.jp/) - Японское ТВ
 
-[Kwakami TV](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan) - ТВ онлайн, больше всего контента.
+[Kwakami TV](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan) - ТВ онлайн, больше всего контента. (Android)
 
-### Манга
+### Чтение
+
+#### Манга
 
 [Mokuro Moe](https://mokuro.moe/manga/) - директория манг проведенных через мокуро, лучший вариант для начинающих. Можно использовать Yomichan на манге.
 
@@ -198,7 +202,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Rawkuma](https://rawkuma.com/) - можно скачивать и читать онлайн.
 
-### Литература
+#### Литература
 
 [YomuJP](https://yomujp.com/) - адаптированные тексты
  
@@ -218,7 +222,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Graded Readers MEGA](https://mega.nz/folder/sRdhSC4b#SOdG9R-Q5fF93JumpEwcyw) архив с книгами по сложности для новичков
 
-### ВН и игры
+#### ВН и игры
 
 [sukebei.nyaa.si](http://sukebei.nyaa.si/) - 18+ версия Nyaa.si (http://nyaa.si/), тут больше ВН чем на обычной версии. Торрент
 
@@ -228,7 +232,11 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [RyuuBlogger](https://ryuubloggerv2.blogspot.com/) - Много ВН.
 
-### Condensed Audio
+[NoPayStation](https://nopaystation.com/) - рипы игр для PlayStation.
+
+### Слушание
+
+#### Condensed Audio
 
 Это аудио вышитое из аниме или другого контента, из него вырезаны паузы между строчками диалогов. Для начинающих отличный вариант, если выбирать аниме полегче, гораздо легче, чем подкасты.
 
@@ -238,7 +246,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Condensed Audio 3](https://condensedaudiocatalog.com/#)
 
-### Подкасты и радио
+#### Подкасты и радио
 
 [Google Podcast](https://podcasts.google.com/?hl=ja) - японская версия сайта, сразу выскакивают рекомендации на японском.
 
