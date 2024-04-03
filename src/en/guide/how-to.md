@@ -5,20 +5,17 @@ title: Японский с удовольствием
 
 ---
 
-Если вы хотите привнести вклад в развитие сайта, у вас есть идеи по новым статьям, страницам и т.д, хотите ввести правки в готовый материал, свяжитесь со мной.
+If you want to contribute to the development of the site, have ideas for new articles, pages, etc., want to make edits to existing material, contact me.
 
+# Why are you here?
 
-# Зачем вы здесь
+Please, don't be lazy, read between the lines. Especially guides about software. 
 
-Прошу вас, не ленитесь, читайте не между строк. Особенно гайды про софт.
+This guide is written for people who primarily want to learn to understand the Japanese language in any form: writing, speech, it doesn't matter. If you want to watch anime and understand everything without English subtitles, read raw manga, watch Japanese YouTube or listen to Japanese music, you've come to the right place. If your main goal is to become a translator/linguist/pass the JLPT within a certain period/learn to speak in 30 days - there may be arguments why this approach is not the best. This guide is written for people who want to perceive the real language and eventually learn to express themselves in it. This method is called immersion.
 
-Этот гайд написан для людей, которые хотят в первую очередь научиться понимать японский язык в любой его форме: письме, речи, неважно. Если вы хотите смотреть аниме и понимать все без русских субтитров, читать мангу в оригинале, смотреть YouTube или слушать музыку на японском, вы пришли по адресу. Если ваша основная цель - стать переводчиком\лингвистом\сдать JLPT за определенный срок\научиться говорить за 30 дней -  могут быть аргументы, почему этот способ не самый лучший. Этот гайд написан для людей, которые хотят воспринимать реальный язык и со временем научиться выражаться на нем. 
+The first scientist to popularize such approach to language learning is [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen). For inspiration, information and motivation thanks to [TheMoeWay](https://learnjapanese.moe/guide/), [MattVsJapan](https://www.youtube.com/@mattvsjapan), [Steve Kaufmann](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ), [Livakivi](https://www.youtube.com/@Livakivi), AJATT, my friend from Telegram and many others.
 
-Прародителем данного метода изучения является [Стивен Крашен](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%88%D0%B5%D0%BD,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD). За вдохновение, информацию, источники и прочее, во многом спасибо [TheMoeWay](https://learnjapanese.moe/guide/), [MattVsJapan](https://www.youtube.com/@mattvsjapan), [Стиву Кофману](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ), [Livakivi](https://www.youtube.com/@Livakivi), AJATT, ребятам из телеграмма и куче других людей.
-
-Этот способ старается выжать как можно больше из потребления, и поэтому он использует кучу сторонних программ. Я покажу вам,как учить японский, быстро подсматривая слова и делая флешкарточки из любого контента, который вы потребляете.  Примеры ниже:
-
-
+This approach tries to squeeze as much as possible out of consumption of Japanese media, and therefore it uses a lot of third-party programs that are free to use. I'll show you how to learn Japanese by quickly looking up words and making flashcards from any content you consume. Examples below:
 
 <VidStack src="/imgvid/JLdemo.mp4"/>
 
@@ -26,126 +23,137 @@ title: Японский с удовольствием
 
 -----
 
- 
+## Core Principles
 
+- When learning a new language, we should understand how we ourselves learned our native tongue and how Japanese people learned Japanese. This is achieved mostly through a huge amount of language consumption in its various manifestations, in other words - **"immersion"**.
 
+- Immersion should take up most of the time you spend learning the language and it should bring you as much enjoyment as possible. There's no need to try to learn what you're not interested in. Put textbooks aside, enjoy and relax consuming the media. Yes, it will be difficult at first, but over time, it will require less and less effort and more and more opportunities will be available.
 
-## Основные принципы
+- Immersion provides a better understanding of the language than textbooks. As Panates said:
 
-- Изучая новый язык, мы должны понимать то, как мы сами изучили свой родной язык и как японцы изучали японский. Это достигается через огромное количество потребления языка в его различных проявлениях. Этот процесс называется **"погружением"** или **“immersion”**.
-- Погружение должно занимать большую часть времени, которое вы тратите на изучение языка. Оно должно приносить вам как можно больше удовольствия. Не нужно пытаться учиться тому, что вам неинтересно. Отложите учебники в сторону, а через контент наслаждайтесь и расслабляйтесь. Да, сначала это будет трудно, но со временем потребуется все меньше и меньше усилий.
-- Погружение дает лучшее понимание языка, чем учебники. как говорил Панатес: 
+> The average 6-year-old Spanish child has more information about the Spanish language in their head than in all the books about Spanish published in the last 200 years.
 
-> В голове условного среднего 6-летнего испанского ребенка инфы о испанском языке больше, чем во всех книгах об испанском выпущенных за последние лет 200
+  This doesn't mean that you shouldn't use any theoretical material for language learning at all; it means that you don't need to get carried away in them, hoping to perfectly understand the language. Nobody ever did and you won't too.
 
-  Это не значит, что не нужно использовать посторонние материалы для изучения языка, это значит, что не нужно задрачиваться в них, в надеждах идеально понимать язык.
+- Interaction with the language occurs mainly in two forms: **Input** (e.g., listening, reading) and **Output** (e.g., speaking, writing). In the beginning (and as long as you can), you should spend time only on **Input**, because **Output** comes mostly by itself and doesn't help you to understand the language. "What is this nonsense?" - you might ask, but that's how it is. After thousands of hours media consumption in a new language, your brain subconsciously adapts to the structures of the new language and begins to understand how, what, and when to speak. At the same time, this will be much more natural than what textbooks or universities force you to pull out of yourself in the early stages of learning. Of course, you will still need to practice speech to speak fluently, but it will be a relatively easy and smooth process with enough input behind you. If you need to learn to speak as quickly as possible, you can try speaking from the very first day, but it will be much more difficult and there is a high risk of developing bad habits.
 
-- Взаимодействие с язык происходит в основном в двух видах: **Input** (вход, например слух, чтение) и **Output** (выход, например говорение, письмо). Первое время (продолжительное) нужно тратить только на **Инпут**, потому что **Аутпут** приходит по большей части само по себе. "Что за абсурд?", спросите вы, но это так. Через несколько тысяч часов потребления контента на новом языке ваш мозг подсознательно адаптируется к структурам нового языка и начинает понимать, как, что и когда нужно говорить. При этом это будет гораздо естественнее, чем то, что вас заставляют вытягивать из себя учебники или университет на ранних этапах обучения. Конечно, вам все равно нужно будет "разговориться", но это будет относительно легкий и плавный процесс. Если вам нужно как можно быстрее научиться говорить, то, конечно, можно начинать пытаться говорить хоть с первого дня, но это будет гораздо сложнее и высок риск набраться вредных привычек.
-- Инпут может и должен быть максимально **осознанным**, это значит, что вы понимаете большую часть того, что вы потребляете и\или пытаетесь понять. Конечно, поначалу это будет особенно тяжело, но это не должно вас демотивировать от погружения. Находите более простые работы, пересмотрите то, что вы уже смотрели и помните. Но также важно, что нужно стараться понимать то, что вы потребляете. Просто ставить подкаст на фон работы это не то же самое, что и 8 часов осознанного, вдумчивого чтения. Нужно стараться пытаться понимать и обращать внимание на контент. Поэтому так важно потреблять то, что вам интересно. Просто ставить аниме на фон того, как вы учитесь - не погружение. Да, я далее советую слушать подкасты на фоне дел, но это не должны быть дела, которые сильно забивают голову, и все равно это менее эффективно, чем если вы сконцентрированы именно на погружении. Погружение сфокусированное > язык на фоне > ничего. Учить язык во сне невозможно, спите нормально. 
-- Нужно стремиться к **i+1 при погружении**, для максимизации продуктивности. Что это такое? Из [Wikipedia](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B_%D0%9A%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B0_%D0%BE%D0%B1_%D1%83%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B8_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0):
+- Input can and should be as **conscious** as possible, meaning that you understand most of what you are consuming and/or try to understand. Of course, at first this will be especially difficult, but it should not demotivate you from immersing. Find media that uses easier language, re-watch what you have already watched and remember well. But it is also important to try to understand what you are consuming. Simply putting a podcast in the background while working for 8 hours is not the same as 8 hours of conscious, thoughtful reading. You need to try to understand and pay attention to the media. That's why it's so important to consume what interests you. Just putting anime in the background while you study is not immersion. Yes, I further advise listening to podcasts in the background of chores, but these should not be chores that heavily occupy your mind, and it is still less effective than if you are focused specifically on immersion. Focused immersion > language in the background > nothing. By the way, it is impossible to learn a language in your sleep, so sleep normally.
 
-> «гипотеза входного материала» (input hypothesis): согласно ей, изучающие улучшают своё знание языка, когда они понимают входной языковой материал (language input), который ненамного превышает их текущий уровень. Крашен называл этот входной уровень «i+1», где «i» означало входной языковой материал, а «+1» — следующую ступень усвоения языка. 
+- You should strive for **i+1 during immersion** to maximize productivity. What is that? From [Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis):
 
-Простыми словами, **i+1** это когда в данном предложении, лишь одна, и только одна языковая единица (слово\грамматика\что-то еще) вам непонятна. Например, вы, наверняка, понимаете что значит "He is bad" на английском, это полностью понятное предложение. Но если вы встретите "He is inept", это будет **i+1** предложение (при условии что вы не знаете значения последнего слова, но это пример). Чем больше предложений, которые вы встречаете - являются **i+1**, тем более продуктивный процесс учебы.
+> "input hypothesis": according to it, learners improve their knowledge of the language when they understand language input that is slightly beyond their current level. Krashen called this input level "i+1", where "i" meant language input and "+1" meant the next stage of language acquisition.
 
-![](/imgvid/i1.jpg)
-- Японский должен стать частью вашей жизни, но это не должно вас подавлять. Флешкарточки требуют регулярных занятий, и нерегулярность очень вредит их эффективности, поэтому здесь потребуется усилие и дисциплина. Но помимо этого, старайтесь развлекаться как можно больше - просто на японском! Слушайте подкасты во время тренировки или уборки, смотрите ютуб или аниме в дороге, читайте перед сном. 4 раза по 15 минут в течение дня - это уже час японского, который вы могли упустить.
-- Нет людей, у которых "просто нет предрасположенности" или им "не подходит" данный способ. Обычно эта отговорка используется людьми, чтобы оправдать потраченное время в учебниках. Люди как вид эволюционировали чтобы понимать и расшифровывать языки. Не нужно даже поднимать вопрос "зрительной" или "слуховой" памяти, это вообще псевдонаука и не связана с языком. Вы были рождены человеком и выучили вы свой родной язык - через погружение. Да, процесс изучения второго языка отличается от того, что происходит у взрослого, изучающего второй язык, но это ложная дихотомия. Он может иметь как отличия, так и схожие механизмы, и это было доказано в различных научных работах.
-- Флешкарточки это самый лучший способ искусственного взаимодействия с языком. Их можно вообще не делать, если вам это дается слишком тяжело, но они очень сильно помогают запоминать новые слова, что полезно как на начальных этапах, когда каждое слово очень важно для понимания, там и на поздних, когда редкие слова встречаются слишком редко для эффективного их запоминания. В идеале, они симулируют потребление слова в реальном языке: вы видите слово - пытаетесь его понять. Если поняли - идете дальше, если забыли - смотрите в словарик. Карточки позволяют систематизировать появление слов у вас перед глазами, что помогает их запоминать при наименьшем взаимодействии с ними. Конечно, реальный язык они не заменят, поэтому это лишь дополнительная практика и она должна занимать лишь невеликую часть от всего взаимодействия с японским.
-- Карточки лучше **майнить**. **Майнинг** - создание флешкарточки прямо из контента, который вы потребляете, копируя оттуда контекст. Это можно и нужно делать автоматизированно, как это было показано на видео в начале статьи. Замайненные карточки легче запоминаются, а также ваше понимание слов, которые вы встретили в реальном контексте - гораздо лучше. 
-- Не нужно учить кандзи. [Подробнее далее](how-to.html#слова-и-кандзи)
-- Не нужно прописывать кандзи, если у вас нет желания уметь писать кандзи из головы. Если оно несильное - отложите на потом. В реальном мире это не особо полезный навык. Если вам помогает это запоминать новые слова - прописывайте. Если вам очень хочется уметь писать слова в кандзи из головы - учите как прописывать слова в кандзи из головы, но в этом НЕТ НЕОБХОДИМОСТИ. Делайте это только ради удовольствия, не ради пользы. "Но японцы же учат письмо в школе" И ЧТО? А вы много используете знания из школы? Японцы прогрессивно с возрастом забывают то, как пишутся иероглифы, особенно те, что пореже, потому что они просто не пишут их. Они могут прочитать, но не написать.
-- Не стоит слишком сильно полагаться на машинный перевод. Несмотря на очень сильный прогресс с переводом у нейросетей, даже при правильном переводе, вы забираете возможность у себя понять что-то самому. Использовать иногда - ничего страшного, конечно же.
+Simply put, **i+1** is when in a given sentence, only one language unit (word/grammar/something else) is unknown to you. For example, you probably understand what "I am eating a sandwich" means in English - it's a completely understandable sentence. But if you encounter "I am eating natto", this would be an **i+1** sentence (assuming you don't know what onigiri is, but this is just an example). The more sentences you encounter that are **i+1**, the more productive the learning process is. And on this example it's obvious why **i+1** is so good, form the context you can deduct yourself that an "natto" is probably a food!  
 
+![](/imgvid/i11.jpg)
 
-**"Но все всегда просто учатся по учебникам. Что за абсурд? Что за тонна текста"** 
-Норма не означает хорошо. В последние годы, изучения языка через погружение сильно набирает обороты, так как все больше академиков начинают говорить о нем. Например [Стивен Крашен](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%88%D0%B5%D0%BD,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD) - лингвист, который в 1970-е годы говорил о методе обучения через инпут, а также [Стив Кофман](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%83%D1%84%D0%BC%D0%B0%D0%BD,_%D0%A1%D1%82%D0%B8%D0%B2), крутой полиглот, говорит именно о таком подходе. Да и в общем сообщество изучения языков в интернете (в основном англоговорящее) на данный момент использует в подавляющем большинстве именно такой подход, так как люди, попробовав его, понимают, что так действительно веселее и эффективнее. В русском сообществе такой подход всё еще не очень популярен, поэтому и был создан данный сайт, чтобы помочь объяснить и популяризировать этот способ.
+- Japanese should become a part of your life, but it should not overwhelm you. Flashcards require regular practice, and irregularity severely impacts their effectiveness, so effort and discipline will be required here more than anywhere else. But apart from that, try to have as much fun as possible - just in Japanese! Listen to podcasts while exercising or cleaning, watch YouTube or anime on your commute, read a light novel before bed. Study 4 times for 15 minutes during the day - that's already an hour of Japanese you could have missed.
 
-## Как начать учить японский
+- There are no people who "simply don't have a predisposition to languages" or for whom "this method doesn't suit". This excuse is usually used by people to justify the time spent in textbooks. Humans as a species evolved to understand and decipher languages. There is no need to even raise the question of "visual" or "auditory" memory - this is just pseudoscience and has nothing to do with language. You were born a human and learned your native tongue through immersion. Yes, the process of learning a second language differs from what happens when an adult learns a second language, but this is a false dichotomy. It may have both differences and similarities, and this has been proven in various scientific studies. Many mechanisms of language learning engaged in kids are active in adults.  
 
-### Каны
+- Flashcards are the best way to "artificially" interact with a language. You don't have to make them at all if it's TOO difficult for you (and I mean mentally and only for a small minority of people, you probably can), but they really help you remember new words fast and not forget old ones, which is useful both in the early stages when every word is very important for understanding, and in the later stages when rare words occur too rarely for effective memorization. Ideally, they simulate the consumption of a word in a real language: you see a word - you try to understand it. If you understood, move on; if you forgot it, look in the dictionary. Flashcards allow you to systematize the appearance of words in front of your eyes, which helps you remember them with the least amount of time interacting with them. Of course, they will not replace real language, so this is only an additional practice and it should only take up a small part of your overall interaction with Japanese.
 
-Первым делом, нужно выучить Хирагану и Катакану. Это 2 слоговых азбуки, которые описывают одинаковые звучи, но имеют разное применение. Как и кандзи, не нужно стараться прописывать иъ из памяти, нужно просто помнить чтение. О них будет написано в гайдах.
+- Flashcards are better **mined**. **Mining** is creating a flashcard directly from the media you consume, copying context from it. This can and should be done in an automated way, as shown in the video at the beginning of the article and will be showed how later. Mined cards are easier to remember, and your understanding of encountered words in real context is much better.
 
-::: danger НЕ ИСПОЛЬЗУЙТЕ ТРАНСЛИТЕРАЦИЮ
-Трудно придумать ошибку новичка хуже. Японская звуковая система очень сильно отличается от русской, написание слов русскими буквами будет вызывать ложные ассоциации и вести к ошибкам. Не используйте материалы с транслитерацией это красный флаг, выучите сначала Каны
+- You don't need to learn kanji. [More details later](how-to.html#words-and-kanji)
+
+- You don't need to write down kanji if you don't have a desire to be able to write kanji from memory. If it's not strong, put it off for later. It's not a particularly useful skill in the real world. If it helps you remember new words, write them down. If you really want to be able to write words in kanji from memory, learn how to write words in kanji from memory, but there is NO NECESSITY for this. Do it only for enjoyment, not for productivity. "But the Japanese learn writing in school" SO WHAT? Do you use much of your school knowledge? The Japanese progressively forget how to write kanji as they get older, especially the rarer ones, because they simply don't write them enough to remember, and they've spent more than 10 years learning them and most of them hated that. They can read but not write. So you have to be able to READ kanji, not write them.
+
+- You shouldn't rely too heavily on machine translation. Despite the tremendous progress in translation by AI, even with an accurate translation, you are taking away the opportunity to understand something for yourself. Using it occasionally is fine, of course.
+
+  - You should consume media with audio first, and start reading later, because of something called "subvocalization". Basically, it's when you "voice" words inside your head. If you start reading too early, your subvocalization will use incorrect sounds (as weird as it sounds) and it will impact your accent. Of course, if you don't care about your accent, it doesn't matter.
+
+**"But everyone always just learns from textbooks. What is this bullsh*t?"**
+The norm does not mean good. In recent years, language learning through immersion has been gaining momentum, as more and more academics are starting to talk about it. For example, [Steven Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) - a linguist who talked about the input method of learning in the 1970s, as well as [Steve Kaufmann](https://en.wikipedia.org/wiki/Steve_Kaufmann), a great polyglot, speaks precisely about this approach. And in general, the online language learning community (mostly English-speaking) is currently using this approach en masse, as people, after trying it, realize that it really is more fun and effective. In other countries and especially academia this approach is still not very popular, which is why this site was created to help explain and popularize this method.
+
+## How to Start Learning Japanese
+
+### Kana
+
+First of all, you need to learn Hiragana and Katakana. These are two syllabaries that are used for the same sounds but have different applications. Like kanji, you don't need to try to write them from memory; you just need to remember the reading, but you can write them for fun. They will be covered in the guides.
+![](/imgvid/kana.jpg)
+
+::: danger DO NOT USE TRANSLITERATION
+It's hard to imagine a worse beginner's mistake. The Japanese sound system is very different from English and probably from almost any other language, so writing words in English letters will cause false associations and lead to mistakes. Do not use materials with transliteration - this is a red flag. Learn the Kana first.
 :::
 
-### Звуковая система
 
-Нужно понимать, что японский абсолютно не звучит как русский, поэтому нужно сразу обратить внимание на это. Не нужно пытаться повторять кану в слух с ужасным русским акцентом, закрепляя этот акцент. Посмотрите видео для начинающих о том, КАК произносят звуки НЕЙТИВЫ, а не русские которые 2 года живут в Токио. Вот, например, [хорошее видео](https://www.youtube.com/watch?v=6p9Il_j0zjc) и [еще одно](https://www.youtube.com/watch?v=WH0UX5oQVzM) из [плейлиста по произношению](https://youtube.com/playlist?list=PLFGs3d9SobfjnhB_jcG7YLb1SZiD8yUZk&si=tiDkOuSX5SJ3RDHr).  Поначалу потребления контента, обращайте много внимания на звуки и то, как их произносят. Особенно будет полезно смотреть на шоу с реальными актерами. 
 
-Также, нужно обязательно обращать внимания на Питч (Он же Pitch Accent, он же тональный акцент, он же музыкальное ударение, как только на русском его не называют). Это не то же самое, что и русские ударения, и не то же самое, что китайские, это другая система, которая совмещает оба этих явления. Ударения в русском происходят за счет громкости и продолжительности слога, в японском ударение происходит за счет изменения тона у определенного слога (pitch(отсюда название "музыкальный тон")), в то время как в китайском тоны разные в каждом слоге. Вам не нужно мучить себя и стараться запомнить каждый питч каждого слова, но не нужно их игнорировать. Многие слова могут звучать одинаково, если вы не будете различать питч, и ваша речь будет звучать очень неестественно.
+### Sound System
 
-Длинный курс по питч от Dogen есть [тут](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen) **[E]**
+You need to understand that Japanese does not sound like Russian at all, so you need to pay attention to this right away. There's no need to try to repeat the kana out loud with a terrible Russian accent, reinforcing that accent. Watch videos for beginners on HOW natives pronounce sounds, not Russians who have lived in Tokyo for 2 years. Here's a [good video](https://www.youtube.com/watch?v=6p9Il_j0zjc) and [another one](https://www.youtube.com/watch?v=WH0UX5oQVzM) from [a pronunciation playlist](https://youtube.com/playlist?list=PLFGs3d9SobfjnhB_jcG7YLb1SZiD8yUZk&si=tiDkOuSX5SJ3RDHr). At the beginning of content consumption, pay close attention to the sounds and how they are pronounced. It will be especially useful to watch shows with real actors.
 
-### Грамматика
+You also need to pay attention to Pitch (also called Pitch Accent, tonal accent, musical stress, or whatever it's called in Russian). This is not the same as Russian stress, and not the same as Chinese - it's a different system that combines both of these phenomena. Stress in Russian occurs due to loudness and duration of the syllable, while in Japanese, stress occurs due to a change in pitch of a certain syllable (hence the name "musical tone"), whereas in Chinese, the tones are different in each syllable. You don't need to torture yourself and try to memorize every pitch of every word, but you shouldn't ignore them either. Many words may sound the same if you don't distinguish pitch, and your speech will sound very unnatural.
 
-Есть 2 основных пути: учить по учебникам или по “гайдам”. Подход погружения относится очень негативно по отношению к учебе через учебники по данным причинам: 
+There is a long course on pitch by Dogen [here](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen) **[E]**
 
-1. Классические учебники часто либо дают слишком много теоретической инфы которая не нужна начинающим (напр. Нечаева), либо все чересчур упрощают (напр. Минна).
-2. Классические учебники очень медленно подают новую информацию, дают кучу заданий, выполнение которых слабо переносится в реальный язык.
-3. Учебники ограничены в том, сколько информации они дают в общем о различных аспектах языка. Учебники возможно быстрее научат вас сдавать тесты типа JLPT, но они хуже помогают понимать реальный язык на практике.
-4. Учебники дают ложное представление о своём уровне понимания языка. Многие заканчивают N3\N2 учебники, все понимают в них, и думают, что у них очень высокий уровень. Это не так. Такая чрезмерная уверенность ведет к большому количество подстраивания логики языка под свое искаженное видение.
+### Grammar
 
-Как вывод, вы можете использовать учебники, не особо задерживаясь на объяснениях и пропуская задания, но почему тогда бы просто не использовать гайды грамматики?
+There are 2 main paths: learning from textbooks or from "guides". The immersion approach is very negative towards learning through textbooks for the following reasons:
 
-Также есть тип людей которые учат в универе\в школе, к этому добавляется еще две проблемы:
+1. Classic textbooks often either provide too much theoretical information that beginners don't need (e.g. Nechaeva), or oversimplify everything (e.g. Minna).
+2. Classic textbooks very slowly introduce new information, giving lots of exercises, the completion of which is weakly transferable to the real language.
+3. Textbooks are limited in how much information they provide about various aspects of the language. Textbooks may teach you to take tests like the JLPT faster, but they are worse at helping you understand real, practical language.
+4. Textbooks give a false sense of your level of language understanding. Many finish N3/N2 textbooks, understand everything in them, and think they have a very high level. This is not the case. This overconfidence leads to a lot of adjusting the logic of the language to suit your distorted view.
 
-1. Учить язык в группе очень неэффективно из-за того что люди с разной скоростью подхватывают разные вещи, каждый обязан учить все одинаковое количество времени, либо продуктивность группы сильно падает из-за разницы в уровне.
-2. Учебники и (особенно) универы обычно заставляют учить письмо от руки (из памяти) что является почти бесполезным навыком для понимания японского и умения самовыражаться на нем в 24 году ХХI века.
+As a result, you can use textbooks without dwelling too much on explanations and skipping exercises, but why not use grammar guides instead?
 
-Исходя из аргументов выше, я считаю что оптимальными вариантами остаются гайды по грамматике\датабазы с грамматикой. В русском сегменте есть один основной вариант: переведённый на русский [гайд Тае Кима](https://vandal.sdf-eu.org/JapaneseGuide/index.html). Там есть вся информация, необходимая для новичка. Есть некоторые ошибки, но они не критичны. Не нужно воспринимать информацию которую вы встречаете где-либо за абсолютную правду, будьте готовы иногда менять и корректировать своё представление о некоторых концептах в другом языке. 
+There is also a type of person who learns at university/school, to which two more problems are added:
 
-Также есть сайт [Nippon Gatari](http://www.nippon-gatari.info/) - склад грамматики, распределён по уровням. Если вы не знаете английский - единственный хороший вариант, о котором я знаю, довольно много инфы. Но не бойтесь гуглить непонятные для вас темы просто в интернете, всегда есть шанс найти иное, более понятное объяснение. Не нужно привязываться к одному источнику.
+1. Learning a language in a group is very ineffective because people pick up different things at different speeds, everyone is forced to learn the same amount of time, or the group's productivity drops significantly due to the difference in level.
+2. Textbooks and (especially) universities usually force you to learn handwriting from memory, which is an almost useless skill for understanding Japanese and being able to express yourself in it in the 24th year of the 21st century.
 
-Если вы знаете английский, есть аж 3 (4) хороших варианта. Также, различные источники в будущем будут обозначены **[E]** . 
+Based on the arguments above, I believe that the optimal options are grammar guides/databases. In the Russian segment, there is one main option: [Tae Kim's Guide](https://vandal.sdf-eu.org/JapaneseGuide/index.html) translated into Russian. It contains all the information necessary for a beginner. There are some mistakes, but they are not critical. You don't need to perceive the information you encounter anywhere as absolute truth; be prepared to sometimes change and correct your understanding of certain concepts in another language.
 
-1. [Tae Kim's Guide](https://ankiweb.net/shared/info/911122782) **[E]** (Anki) - большая часть гайда выше, но в форме флешкарточек, я сам с нее начинал. Также там исправлены некоторые неточности оригинального гайда. Внимательно прочитайте описание колоды. Об использовании Anki будет дале. 
+There is also the site [Nippon Gatari](http://www.nippon-gatari.info/) - a warehouse of grammar, organized by levels. If you don't know English, it's the only good option I know of with quite a lot of information. But don't be afraid to Google topics you don't understand, there's always a chance to find a different, more understandable explanation. Don't get attached to a single source.
 
-2. [IMABI](https://imabi.org/) **[E]** - проект для начинающих и не только, который считается более хорошим и глубоким чем Тае Ким. В нем очень много полезной информации.
+If you know English, there are as many as 3 (4) good options. Also, various sources in the future will be marked with **[E]**.
 
-3. [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) а также его текстовая версия [Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) [E] - Очень хороший гайд, показывающий грамматику под совсем другим углом. Как по мне, огромное количество вещей там объяснено просто офигенно понятно и логично. Главный минус - качество аудио ужасное, но можно использовать транскрипт. А также уже нужно немного понимать самые самые основы, я бы рекомендовал его к просмотру через пару недель использования других ресурсов.
+1. [Tae Kim's Guide](https://ankiweb.net/shared/info/911122782) **[E]** (Anki) - most of the guide above, but in the form of flashcards; I started with it myself. Some inaccuracies from the original guide are also corrected there. Read the deck description carefully. The use of Anki will be discussed later.
 
-4. [BunPro](https://bunpro.jp/grammar_points)  **[E]** - очень удобный сайт с японской грамматикой, есть встроенные флешкарточки (но за деньги и они на выпут, так что не лучший вариант). Очень много информации, много примеров. Не самый хороший вариант для начала сам по себе, но можно брать грамматику из других источников и повторять его через него.
+2. [IMABI](https://imabi.org/) **[E]** - a project for beginners and beyond, which is considered better and more in-depth than Tae Kim. It contains a lot of useful information.
 
-### Слова и Кандзи
+3. [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) and its text version [Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) [E] - A very good guide that shows grammar from a completely different angle. In my opinion, a huge number of things are explained there in an amazingly clear and logical way. The main downside is the terrible audio quality, but you can use the transcript. You also need to understand the very basics, so I would recommend watching it a couple of weeks after using other resources.
 
-Слова учить гораздо легче, чем может показаться. Это лишь занимает время. Для запоминания слов вы можете использовать сервисы и приложения для флешкарточек. Лучший полностью бесплатный вариант - [Anki](/software/anki.md). Лучший полубесплатный вариант - [JPDB.io](http://jpdb.io/), также имеется на него [гайд](/guide/jpdb.md) **[E]**. Слова можно брать в готовых колодах, но лучше, конечно же - **майнить**. 
+4. [BunPro](https://bunpro.jp/grammar_points) **[E]** - a very convenient site with Japanese grammar, with built-in flashcards (but paid and for output, so not the best option). Lots of information, many examples. Not the best option to start with on its own, but you can take grammar from other sources and review it through BunPro.
 
-**Кандзи учить не нужно**
+### Words and Kanji
 
-Как так? Просто. Кандзи практически никогда не нужно понимать вне контекста слов. Кандзи используются для записи слов, поэтому нужно учить слова в их кандзи форме. Например:
+Learning words is much easier than it may seem. It just takes time. To memorize words, you can use flashcard apps and services. The best completely free option is [Anki](/software/anki.md). The best semi-free option is [JPDB.io](http://jpdb.io/), which also has a [guide](/guide/jpdb.md) **[E]**. You can take words from ready-made decks, but it's better, of course, to **mine** them.
 
-**日本 [にほん]** - слово из 2 кандзи. Чтобы его выучить, вам не нужно "знать" кандзи **日** и **本**. 
+**You don't need to learn kanji**
 
-Вы просто стараетесь запомнить его чтение **[にほん]** и значение - Япония. Это будет очень удобно делать через флешкарточки.
+How so? Simply. Kanji almost never needs to be understood out of the context of words. Kanji are used to write words, so you need to learn words in their kanji form. For example:
 
-"Почему бы не выучить сначала кандзи, потом слово?"
+**日本 [にほん]** - a word consisting of 2 kanji. To learn it, you don't need to "know" the kanji **日** and **本**.
 
-Потому что это менее эффективно. Вам не нужно пытаться запоминать кандзи отдельно. Это малополезный навык при изучении реального языка. Японцы, когда видят **日本**, не думают об этом слове как о "солнце основа" или что-то в этом роде, у них в голове только одна концепция - Япония. Они с детства сначала учат устную форму слова, а затем добавляют кандзи. В нашем случае мы просто учим кандзи форму одновременно с ее "фонетической" формой, что относительно близко к тому, как японцы учат слова. Конечно, в идеале можно учить сначала слово без кандзи, а затем добавлять кандзи, это скорее всего даже поможет с восприятием на слух, но это лишний запар, на мой взгляд.
+You simply try to remember its reading **[にほん]** and its meaning - Japan. This will be very convenient to do with flashcards.
 
-Я слышал разные глупости на этот счет, кто-то говорит, что японцы, когда слышат слово, они разбирают его по составу и уже из его состава получают значение. Это просто бред. Они не разбирают слова типа **いなずま**, а затем представляют в голове **稲妻** и ломают голову, что оно значит "рис-жена". Точно так же, как и вы, когда слышите слово "паровоз", не думаете, что это транспортное средство, которое возит пар. В вашей голове сразу появляется определенный вид транспорта, к которому мы обращаемся словом "паровоз".
+"Why not learn the kanji first, then the word?"
 
-Да, учить слова как комбинации кандзи - это забавно, интересно и модно, но это работает только в начале, когда вам учебники специально дают слова, которые легко воспринимаются по такой логике. В реальном мире одно кандзи может иметь несколько основных значений, десятки чтений и другие тонкости, которые просто при использовании такого метода просто сломают голову при запоминании слов не входящие в рамки вашего понимания. Со временем подход учебы без заучивания кандзи будет приносить вам все больше и больше плодов, потому что вы будете встречать все больше слов с уникальными или редкими кандзи. Например, слова вроде **薔薇** будут легко запоминаться благодаря их уникальности.
+Because it's less effective. You don't need to try to memorize kanji separately. It's a skill of little use when learning a real language. When Japanese people see **日本**, they don't think of this word as "sun base" or something like that; they only have one concept in their head - Japan. From childhood, they first learn the spoken form of the word, and then add the kanji. In our case, we simply learn the kanji form simultaneously with its "phonetic" form, which is relatively close to how the Japanese learn words. Of course, ideally, you can learn the word without kanji first, and then add the kanji, which will probably even help with listening comprehension, but in my opinion, that's just extra hassle.
 
-Реально знать кандзи возможно полезно только если вы хотите сдавать экзамены где нужно писать руками (бесполезный навык в реальном мире), либо имеется часть с тестом на кандзи, где вам нужно отличить 成績 или 成積 (бесполезный навык в реальном мире, т.к на практике таких очень похожих слов очень мало и проще понимать разницу в конкретных случаях).
+I've heard various nonsense about this, some say that when the Japanese hear a word, they break it down by composition and then get the meaning from its composition. This is just nonsense. They don't break down words like **いなずま**, and then imagine **稲妻** in their heads and rack their brains over what it means "rice-wife". Just as you, when you hear the word "паровоз" (steam locomotive), don't think that it's a vehicle that carries steam. The specific type of transport that we refer to as "паровоз" immediately appears in your head.
 
-Если вы хотите научиться писать на японском, посмотрите данный [гайд с информацией](/guide/handwriting.md) 
+Yes, learning words as combinations of kanji is fun, interesting, and fashionable, but it only works at the beginning when textbooks specifically give you words that are easily perceived through such logic. In the real world, one kanji can have several basic meanings, dozens of readings, and other subtleties that will simply break your head when memorizing words that don't fit within your understanding when using this method. Over time, the approach of learning without memorizing kanji will bring you more and more benefits, because you will encounter more and more words with unique or rare kanji. For example, words like **薔薇** will be easily remembered thanks to their uniqueness.
 
-Со временем слова с новыми и особенно уникальными кандзи будут для вас чем-то интересным и легким для запоминания, в сравнении с очередным словом-комбинацией старых, знакомых Кандзи. Не повторяйте ошибки многих, в том числе мои (Я учил 1200 кандзи отдельно пока не понял, что это было зря), не учите кандзи.
+Actually knowing kanji may only be useful if you want to pass exams where you need to write by hand (a useless skill in the real world), or if there is a part with a kanji test where you need to distinguish 成績 or 成積 (a useless skill in the real world, because in practice there are very few such similar words and it's easier to understand the difference in specific cases).
 
-**Нужно учить слова с Кандзи**
+If you want to learn to write in Japanese, check out [this guide with information](/guide/handwriting.md)
 
-Когда вы будете майнить слова, не важно через какую программу или сервис - старайтесь изучать сразу кандзи форму, разве что если она не безумно редкая и древняя, так как:
+Over time, words with new and especially unique kanji will be something interesting and easy for you to remember, compared to yet another word-combination of old, familiar kanji. Don't repeat the mistakes of many, including mine (I learned 1200 kanji separately before realizing it was a waste), don't learn kanji.
 
-- Рано или поздно вы встретите слово в Кандзи форме.
-- Быстрее приучитесь запоминать Кандзи.
-- Запоминание слова в кандзи форме заставляет вас запоминать как слово читается, соответственно его будет легче вспоминать при воспроизведении (письме, речи)
+**You need to learn words with Kanji**
 
-**Как учить**
+When you mine words, no matter which program or service you use, try to learn the kanji form right away, unless it's not incredibly rare and ancient, because:
 
-В первую очередь вам нужно выбрать программу, которая вам подходит больше. Тут будет информация в основном направленная для использования **Anki**, т.к. только там есть русский язык. Сначала нужно установить и настроить приложение. **Anki** доступен на всех устройствах, **JPDB** это сайт.
+- Sooner or later, you will encounter the word in kanji form.
+- You will get used to memorizing kanji faster.
+- Memorizing a word in kanji form forces you to remember how the word is read, so it will be easier to recall when reproducing (writing, speaking).
+
+**How to Learn**
+
+First of all, you need to choose the program that suits you better. Here will be information mainly aimed at using **Anki**, since only there is Russian language support. First, you need to install and configure the app. **Anki** is available on all devices, **JPDB** is a website.
 
 [Anki](/software/anki.md)
 

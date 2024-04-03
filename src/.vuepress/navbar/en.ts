@@ -1,32 +1,57 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
-  "/en/",
-  "/en/demo/",
   {
-    text: "指南",
-    icon: "lightbulb",
+    text: "Home",
+    icon: "home",
+    link: "/en/",
+  },
+  {
+    text: "For beginners",
+    link: "/en/guide/how-to.md",
+  },
+  {
+    text: "Guides",
     prefix: "/en/guide/",
-    link: "https://theme-hope.vuejs.press/zh/",
     children: [
       {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        link: "https://theme-hope.vuejs.press/zh/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        text: "JPDB",
+        icon: "/ico/jpdb.png",
+        link: "jpdb-guide",
       },
       {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        text: "How to focus",
+        icon: "/ico/focus.svg",
+        link: "focus",
+      },
+      {
+        text: "Managing time 🚧",
+        icon: "/ico/timer.svg",
+        link: "timetracking",
+      },
+      {
+        text: "Handwriting 🚧",
+        icon: "/ico/writing.svg",
+        link: "handwriting",
+      },
+      {
+        text: "MEXT 🚧",
+        icon: "/ico/school.svg",
+        link: "mext",
       },
     ],
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "Software",
+    prefix: "/en/software/",
+    link: "/en/software/",
+  },
+  {
+    text: "Resources",
+    link: "/en/resources",
+  },
+  {
+    text: "Blog",
+    link: "/en/blog/",
   },
 ]);
