@@ -141,7 +141,7 @@ MPV плеер это опен-сорс программа, на которую 
 
 В самом по себе **MPV** смотреть слова нельзя, так что нужно пользоваться внешними программами. Тут 2 варианта, посмотрите для себя, какой вам удобнее. Через **Yomitan** проще, потому что он уже должен быть у вас настроен, но с **JL** гораздо удобнее, потому что можно в полный экран смотреть, но он добавляет лишь одно выбранное определение.
 
-## Yomichan + Clipboard Inserter
+## Yomitan + Clipboard Inserter
 
 1. Установите [данное расширение](https://chromewebstore.google.com/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm).
 2. Откройте [данную страницу](https://anacreondjt.gitlab.io/texthooker.html)
