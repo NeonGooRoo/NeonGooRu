@@ -34,9 +34,9 @@ redirectFrom: /yomitan.html
 
 
 
-# Установка 
+## Установка 
 
-## ПК
+### ПК
 
 **Yomitan** можно скачать для [Chrome](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) и [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/).
 
@@ -45,7 +45,7 @@ redirectFrom: /yomitan.html
 `chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/permissions.html` 
 `chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn`
 
-## Android
+### Android
 
 Расширения поддерживаются только через [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US), поэтому необходимо скачать его.
 
@@ -59,7 +59,7 @@ redirectFrom: /yomitan.html
 
 ![](/imgvid/extention.png)
 
-# Словари
+## Словари
 
 **Yomitan** сам по себе не содержит в себе информации, так что словари нужно выбрать установить самому. [Здесь](https://drive.google.com/drive/folders/10kvhKQn26zGxg4VM-R8ldCmPwbo7mxfO?usp=sharing) можно скачать мою подборку словарей, в том числе русских, [здесь](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) можно посмотреть огромную коллекцию автора TheMoeWay. Есть несколько основных видов со значениями, снизу написаны рекомендуемые варианты из моего архива:
 
@@ -83,7 +83,7 @@ redirectFrom: /yomitan.html
 
 Теперь нужно зайти в настройки **Yomitan**. Нажмите по иконке **Yomitan** среди расширений и на шестеренку. Вам сразу же нужно во вкладке **Dictionaries** нажать на **Configure installed and enabled dictionaries…**, там нажать **Import** и выбрать сразу несколько скачанных вами словарей. Какое-то время они будут распаковываться. JMdict, либо на яп-яп словари.
 
-# Настройки
+## Настройки
 
 Теперь нужно промотать вниз до **Import settings** и загрузить `Yomichan-settings.json`.  Игнорируйте ошибку, нажимайте на красную кнопку **Import**.
 

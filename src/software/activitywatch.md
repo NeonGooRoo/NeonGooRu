@@ -25,16 +25,16 @@ ActivityWatch - трекер времени на Windows (и на Андроид
 
 
 
-# Установка
+## Установка
 
 Для установки скачайте приложение (https://activitywatch.net/) и расширение (https://chromewebstore.google.com/detail/activitywatch-web-watcher/nglaklhklhcoonedhgnpgddginnjdadi) для браузера(ов)
 После установки откройте Dashboard через иконку AW в трее. Прежде чем настраивать приложение, удобнее всего сначала день попользоваться приложением, чтобы он собрал данные. 
 
-# Настройка и использование
+## Настройка и использование
 
 Сначала все понятно, Landing page  удобнее всего иметь на Home.
 
-## Categorization
+### Categorization
 
 Тут нужно создавать группы и давать "правила" по которым программа причисляет окна к группам. Суть можно понять по дефолтным настройкам либо в [официальной документации](https://docs.activitywatch.net/en/latest/features/categorization.html), но суть я объясню вкратце:
 

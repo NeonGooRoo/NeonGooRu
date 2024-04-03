@@ -7,7 +7,7 @@ title: Японский с удовольствием
 
 If you want to contribute to the development of the site, have ideas for new articles, pages, etc., want to make edits to existing material, contact me.
 
-# Why are you here?
+## Why are you here?
 
 Please, don't be lazy, read between the lines. Especially guides about software. 
 
@@ -23,7 +23,7 @@ This approach tries to squeeze as much as possible out of consumption of Japanes
 
 -----
 
-## Core Principles
+### Core Principles
 
 - When learning a new language, we should understand how we ourselves learned our native tongue and how Japanese people learned Japanese. This is achieved mostly through a huge amount of language consumption in its various manifestations, in other words - **"immersion"**.
 
@@ -66,9 +66,9 @@ Simply put, **i+1** is when in a given sentence, only one language unit (word/gr
 **"But everyone always just learns from textbooks. What is this bullsh*t?"**
 The norm does not mean good. In recent years, language learning through immersion has been gaining momentum, as more and more academics are starting to talk about it. For example, [Steven Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) - a linguist who talked about the input method of learning in the 1970s, as well as [Steve Kaufmann](https://en.wikipedia.org/wiki/Steve_Kaufmann), a great polyglot, speaks precisely about this approach. And in general, the online language learning community (mostly English-speaking) is currently using this approach en masse, as people, after trying it, realize that it really is more fun and effective. In other countries and especially academia this approach is still not very popular, which is why this site was created to help explain and popularize this method.
 
-## How to Start Learning Japanese
+### How to Start Learning Japanese
 
-### Kana
+#### Kana
 
 First of all, you need to learn Hiragana and Katakana. These are two syllabaries that are used for the same sounds but have different applications. Like kanji, you don't need to try to write them from memory; you just need to remember the reading, but you can write them for fun. They will be covered in the guides.
 ![](/imgvid/kana.jpg)
@@ -79,7 +79,7 @@ It's hard to imagine a worse beginner's mistake. The Japanese sound system is ve
 
 
 
-### Sound System
+#### Sound System
 
 You need to understand that Japanese does not sound like Russian at all, so you need to pay attention to this right away. There's no need to try to repeat the kana out loud with a terrible Russian accent, reinforcing that accent. Watch videos for beginners on HOW natives pronounce sounds, not Russians who have lived in Tokyo for 2 years. Here's a [good video](https://www.youtube.com/watch?v=6p9Il_j0zjc) and [another one](https://www.youtube.com/watch?v=WH0UX5oQVzM) from [a pronunciation playlist](https://youtube.com/playlist?list=PLFGs3d9SobfjnhB_jcG7YLb1SZiD8yUZk&si=tiDkOuSX5SJ3RDHr). At the beginning of content consumption, pay close attention to the sounds and how they are pronounced. It will be especially useful to watch shows with real actors.
 
@@ -87,7 +87,7 @@ You also need to pay attention to Pitch (also called Pitch Accent, tonal accent,
 
 There is a long course on pitch by Dogen [here](https://github.com/daigakulounge/ochinchingadaiskinandayo/blob/master/dogen) **[E]**
 
-### Grammar
+#### Grammar
 
 There are 2 main paths: learning from textbooks or from "guides". The immersion approach is very negative towards learning through textbooks for the following reasons:
 
@@ -117,7 +117,7 @@ If you know English, there are as many as 3 (4) good options. Also, various sour
 
 4. [BunPro](https://bunpro.jp/grammar_points) **[E]** - a very convenient site with Japanese grammar, with built-in flashcards (but paid and for output, so not the best option). Lots of information, many examples. Not the best option to start with on its own, but you can take grammar from other sources and review it through BunPro.
 
-### Words and Kanji
+#### Words and Kanji
 
 Learning words is much easier than it may seem. It just takes time. To memorize words, you can use flashcard apps and services. The best completely free option is [Anki](/software/anki.md). The best semi-free option is [JPDB.io](http://jpdb.io/), which also has a [guide](/guide/jpdb.md) **[E]**. You can take words from ready-made decks, but it's better, of course, to **mine** them.
 
@@ -153,108 +153,122 @@ When you mine words, no matter which program or service you use, try to learn th
 
 **How to Learn**
 
-First of all, you need to choose the program that suits you better. Here will be information mainly aimed at using **Anki**, since only there is Russian language support. First, you need to install and configure the app. **Anki** is available on all devices, **JPDB** is a website.
+First of all, you need to choose the program that suits you better. On this website the information will be mainly aimed at using **Anki**, since it is free, has the most features and compatibility with other apps, as well as community support. 
 
-[Anki](/software/anki.md)
+[Anki](/software/anki.md) - most features, most configurable, many addons, harder to use.
 
-[JPDB](/guide/jpdb.md) **[E]**
+[JPDB](/guide/jpdb.md) - easy to use, relatively intuitive. Much more convenient mining for video content if you pay 5$\months
 
-Так как начинать майнить сразу все подряд это не самый удобный вариант, я предлагаю начать с колод распространённых слов, но лучше как можно раньше перейти на замайненные карточки, они гораздо лучше запоминаются, нужно только один раз запариться и настроить все для этого.
+Since starting to mine everything right away is not the most convenient option, I suggest starting with "core" decks, which are usually decks that focus on more frequent vocab, but it's better to switch to mined cards as soon as possible, they are much easier to remember, you just need to put in the effort once and set everything up for it.
 
-Теперь нужно выбрать первую колоду. Для Anki я сделал [данную колоду](https://ankiweb.net/shared/info/296386481) на 2000 слов для начинающих, в описании колоды есть вся нужная о неё информация. На JPDB можно создать колоду из 3000 самых распространённых слов, тоже отличный вариант.
+Now you need to choose the first deck. For Anki, [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) is the best option right now. On JPDB, you can create a deck from the 3000 most common words, which is also an excellent option. Before using the decks, you still need to learn how to use either Anki or JPDB so read their respective guide above.
 
-### Эффективность и комфорт
+#### Effectiveness and Comfort
 
-Многие учащие японский язык и не подозревают о количестве ресурсов и программ, которые существуют, чтобы облегчить ваше приключение в изучении языка. Отмечу основные моменты и дам ссылки на большее количество инфы. Много из этого пригодится для майнинга. Откуда скачивать аниме, игры, субтитры и прочее находится в [ресурсах](/resources.md). 
+Many language learners, especially Japanese language learners, are unaware of the number of resources and programs that exist to ease your adventure in learning the language. I'll highlight the main points and provide links to more information. Much of this will be useful for mining. Where to download anime, games, subtitles, and more can be found in [Resources](/resources.md).
 
-#### Софт и подобное
+##### Software and stuff
 
-Многие программы существуют только для **Windows** или хотя бы** Linux\Mac**, так что в идеале в основном пользоваться компьютером. То, что работает через **Android** я буду помечать **[A]**, iOS - **[iOS]**
+Many programs only exist for **Windows** or at least **Linux\Mac**, so ideally it's best to use a PC. Anything that works through **Android** I'll mark as **[A]**, iOS - **[iOS]**.
 
-Прежде чем устанавливать что-то, в том числе **Anki**, ОБЯЗАТЕЛЬНО прочитайте [введение в софт](/software/), тут я просто опишу что вообще бывает:
+Before installing anything, including **Anki**, be sure to read the [introduction to software](/software/), here I'll just describe what's out there:
 
-- **Yomitan** **[A]** - (теперь Yomitan) безумно удобная программа-словарь, которая позволяет подсматривать значения практически любых слов, которые вы встретите в интернете. Оно просто незаменимо в изучения японского языка. Навелся на слово - увидел перевод, что может быть прекраснее? Оно также является очень важным компонентом майнинга.
+- **Yomitan** **[A]** - (now Yomichan) an incredibly convenient dictionary program that allows you to look up the meanings of almost any words you encounter on the internet. It's simply indispensable for learning Japanese. Hover over a word - see the translation, what could be easier? It's also a very important for mining.
 
 <VidStack src="/imgvid/yomichandemo.mp4"/>
 
-- **JL** - программа-словарь, которая может быть более удобная чем **Yomitan** для некоторых задач, например просмотр контента или игра в визуальные новеллы.
+- **JL** - a dictionary program that may be more convenient than **Yomitan** for some tasks, such as watching video content or playing visual novels.
 
 <VidStack src="/imgvid/JLdemo.mp4"/>
 
-- **MPV** - плеер, который с помощью плагинов и одной из программ выше помогает делать карточки из любого видеоконтента, вырезает оттуда звук и картинку. (На примере справа не часть плеера, об это подробнее в гайде для **MPV**)
+- **MPV** - a player that with the help of plugins and one of the programs above helps make flashcards from any video content with audio and images. (In the example, to the right, it's not part of the player, more details in the guide for **MPV**)
 
 <VidStack src="/imgvid/MPVdemo.mp4"/>
 
-- **ASB Player** - Аналог **MPV** для майнинга, но это расширение, со своими минусами и плюсами, но главное - работает с видео онлайн, для кого-то это может быть очень удобно. Также можно через него подключать внешние субтитры к почти любому видео, а также он сам вырезает субтитры из некоторых сайтов, например YouTube.
+- **ASB Player** - An alternative to **MPV** for mining, but it's an extension for Chrome, with its own pros and cons, but the main thing is that it works with online videos, which can be very convenient for some. You can also use it to connect external subtitles to almost any video, and it extracts subtitles from some sites, like YouTube allowing the use of Yomitan seamlessly.
 
-- **Automatic Subtitle Retimer** - расширение, которое ретаймит (двигает) субтитры автоматически. Часто аниме, особенно к старым аниме, не совпадают с видеорядом и меняются в течение серии. Данная программа помогает исправить это.
+- **Automatic Subtitle Retimer** - an extension that automatically retimes subtitles. Often anime subtitles, especially for older anime, doesn't match the video and you sometimes need to change timings throughout the episode, which is annoying. This program helps fix that.
 
-- **Mokuro** - программа, которая сканирует мангу и показывает текст поверх изображений, который можно считывать с помощью **Yomitan**.
+- **Mokuro** - a program that scans manga and displays text over the images, which can be read using **Yomitan**.
 
-- **KanjiTomo [E]** - программа для OCR на ходу. Требует JAVA для работы, не очень удобное
+- **Cloe** - an on-the-fly OCR program. 
 
-- **Textractor** - программа для вытаскивания текста из визуальных новел, чтобы их можно было подсматривать с помощью **Yomitan\JL** и делать флешкарточки. Также есть некоторые аналоги, подробнее в статье про ВН (/vn.md).
+- **Textractor** - a program for extracting text from visual novels so that it can be looked up using **Yomitan\JL** and flashcards can be made. There are also some alternatives, more details in the article on VNs (/vn.md). **Agent** is an alternative for some apps that are not compatible. 
 
-- **[Ttsu Reader](https://reader.ttsu.app/)** - самый удобный ридер для `.Epub`, работает через веб, соответственно с **Yomitan**.
+- **Yomininja** - when nothing else works with a videogame of your choice this is your last option.
 
-- **[Ten10](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634) [iOS]** - "плагин" для Safari, позволяет подсматривать слова. 
+- **[Ttsu Reader](https://reader.ttsu.app/)** - the most convenient reader for `.Epub` books, works through the browser, allows to use **Yomitan**.
 
-Также, кроме программ выше, вы можете использовать прочие ресурсы, для нахождения контента попроще.
+- **[Ten10](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634) [iOS]** - a "plugin" for Safari that allows you to look up words.
+- **Jidoujisho [A]** - an all-in-one Android app that allows you to look up words with a popup dictionary in the web\YouTube\any downloaded video and mine cards from it. An insanely good app. 
 
-#### Погружение и подбор контента по уровню
+With the software above, you can use other resources to find content easy enough for you to enjoy.
 
-Самое трудное в начале - найти то, что ты вообще можешь понять. Больше всего в начале я рекомендую потреблять визуальный контент, аниме и дорамы попроще - идеал. YouTube будет слишком сложный для начала, но если вам интерсно - супер.
+##### Starting your Immersion
 
-Также не стоит забывать о чтении. Чтение позволяет вам потреблять гораздо больше языка за единицу времени, чем слух, поэтому чем больше вы читаете - тем эффективнее вы учитесь. Для начала, манга может быть оптимальным вариантом, пробуйте разные медиа, разные стили, разные жанры, разное всё пока не найдете что-то интересное. В идеале соблюдать баланс чтения и слуха, но конечно, что-то вам будет интереснее, что-то нет, так что старайтесь просто полностью не забивать на какую-то часть языка. 
+The most difficult thing in the beginning is finding something you can actually understand. More than anything, I recommend consuming visual content at the beginning, simpler anime and dramas is perfect. YouTube will be usually too difficult in the beginning, but if you're interested in it, it's amazing.
 
-Старайтесь забивать все свободное время японским. 4 Промежутка по 15 минут в течение дня которые вы бы просрали на ВК - это час японского, который вы упустили. За год это 365 часов японского. Возможно даже на JLPT N5 хватит. Ставьте подкасты или Condensed Audio на фон прочих задач. Это не полноценное погружение, но лучше, чем ничего. МУЗЫКА не подойдет!
-Может если только если у солиста очень отчетливый голос и у вас в добавок слова перед глазами.
+Don't read at first, but don't forget about it.
 
-Слушайте Стива Коффмана:
+ Reading allows you to consume much more language per unit of time than listening, so the more you read, the more effectively you learn. For starters, manga may be the optimal option, try different media, different styles, different genres, everything until you find something interesting. Ideally, maintain a balance of reading and listening, but of course, something will interest you more, something less, so try not to completely neglect any part of the language.
+
+Try to fill all your free time with Japanese. 4 intervals of 15 minutes during the day that you would have wasted on VK - that's an hour of Japanese you missed. Over a year, that's 365 hours of Japanese. Maybe even enough for JLPT N5. Put podcasts or Condensed Audio in the background of other tasks. It's not full immersion, but it's better than nothing. MUSIC won't work! Maybe only if the singer has a very clear voice and you also have the words in front of you.
+
+Listen to Steve Kaufmann:
 
 <VidStack src="/imgvid/steve.mp4"/>
 
-Личные рекомендации по контенту для начинающих:
+Personal recommendations for content for beginners:
 
-Аудио:
+Audio:
 
-**Condensed audio** - аудиодорожки из видеоконтента, с вырезанными паузами между диалогами. Звучит бредово, но это неплохой вариант практиковать слух, особенно в начале пути. Речь в аниме гораздо проще, чем в большинстве подкастов, а слушать одни только подкасты для начинающих - может наскучить.
+**Condensed audio** - audio tracks from video content, with pauses between dialogues cut out. It sounds absurd, but it's a decent option to practice listening, especially at the beginning of your journey. Speech in anime is much simpler than in most podcasts, and listening to only podcasts for beginners can get boring.
 
-Подкасты: NIHONGO CON TEPPEI, [UYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA)
+Podcasts: NIHONGO CON TEPPEI, [UYU's Japanese Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA)
 
-Аниме: Isshukan Friends, Tsuki ga Kirei, K-ON!, многие фильмы гибли очень легко воспринимать, а также пересмотрите то, что вы уже смотрели и любите.
+Anime: Isshukan Friends, Tsuki ga Kirei, K-ON!, many Ghibli movies are very easy to perceive, and also rewatch what you've already seen and love.
 
-Книга: [また、同じ夢を見ていた](https://nyaa.si/view/1642852)
+Book: [I had the same dream again](https://nyaa.si/view/1642852)
 
-Манга: [Yotsuba to!](https://mokuro.moe/manga/Yotsuba%20to%21/)
+Manga: [Yotsuba to!](https://mokuro.moe/manga/Yotsuba%20to%21/)
 
-но вообще манга в основном относительно простая, в [библиотеке мокуро](https://mokuro.moe/manga/) много манги уже отформатированной и можно смотреть переводы слов с **Yomitan** 
+but in general, manga is relatively simple, there's a lot of manga already formatted in the [Mokuro library](https://mokuro.moe/manga/) and you can see word translations with **Yomitan**
 
-Пример:
+Example:
 
 <VidStack src="/imgvid/mokuro.mp4" aspectRatio="4/3"/>
 
-Данные ресурсы помогут вам с этой проблемой того, что трудно найти что-то попроще: 
+These resources will help you with the problem of finding something simpler:
 
-[JPDB.io](https://jpdb.io/prebuilt_decks) - куча разного контента по сложности, но сложность измеряется только в плане лексики. Также, алгоритм дает сильную фору более коротким произведениям, но есть куча настроек.
+[JPDB.io](https://jpdb.io/prebuilt_decks) - a bunch of different content by difficulty, but the difficulty is measured only in terms of vocabulary. Also, the algorithm gives a strong preference to shorter works, but there are a lot of settings.
 
-[Jo Mako's Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203) - огромная Экселька с кучей инфы и контента. Поначалу трудно разобраться только.
+[Jo Mako's Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203) - a huge Excel file with a lot of info and content. Initially, it's hard to figure out only.
 
-[Natively](https://learnnatively.com/) - литература по сложности.
+[Natively](https://learnnatively.com/) - literature by difficulty.
 
-Больше информации всегда можно найти в [Ресурсах](/resources.md).
+More information can always be found in [Resources](/resources.md).
 
-Также, у вас наверняка могут быть вопросы по изучению Языка. Всегда можете обратиться сюда:
+Also, you may have questions about studying the language. You can always contact:
 
-**[日本語学校](https://t.me/nihongotabemasen)** - чат ТГ
+**[Japanese Language School](https://t.me/nihongotabemasen)** - TG chat
 
-**[日本語 ЧАТ](https://t.me/japanese2everyone)** - чат ТГ
+**[Japanese Chat](https://t.me/japanese2everyone)** - TG chat
 
-**[Japanese StackExchange](https://japanese.stackexchange.com/)**  [E] - сайт для вопросов про японский
+**[Japanese StackExchange](https://japanese.stackexchange.com/)** [E] - a site for questions about Japanese
 
-**[HiNative](https://hinative.com/)** - сайт для вопросов про любые языки, задавать вопросы надо либо на англ либо на япе.
+**[HiNative](https://hinative.com/)** - a site for questions about any languages, ask questions either in English or Japanese.
 
-#### Словари и переводчики
+##### Dictionaries and Translators
+
+[DeepL](https://www.deepl.com/translator#ja/en/) - the best machine translation, better at translating to English.
+
+[NYARS](https://nyars.org/) - the most complete Russian web dictionary.
+
+[Jardic](http://www.jardic.ru/) - Russian web dictionary.
+
+[JPDB.io](https://jpdb.io/) **[E]** - a very convenient English and Japanese-Japanese dictionary, convenient search by kanji and readings, can be used
+
+##### Словари и переводчики
 
 [DeepL](https://www.deepl.com/translator#ja/en/) - лучший машинный перевод, лучше переводит на англ.
 
@@ -270,7 +284,7 @@ First of all, you need to choose the program that suits you better. Here will be
 
 [Kotobank](https://kotobank.jp/)- Японский словарь-энциклопедия 
 
-## Вас может заинтересовать
+### Вас может заинтересовать
 
 Я веду телеграм канал [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) о том, как я учу по 100-200 слов в день уже год, пощу интересные вещи, там же можно связаться со мной, сообщить об ошибке, предложить дополнения. Оцените! 
 
@@ -278,7 +292,7 @@ First of all, you need to choose the program that suits you better. Here will be
 
 Гайд о том, как я концентрируюсь на флешкарточках по 3-4 часа в день более года [тут](/guide/focus.md)
 
-## Еще несколько деталей
+### Еще несколько деталей
 
 ![Что вы видите](/imgvid/whatusee.png)
 

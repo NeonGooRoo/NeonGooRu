@@ -11,7 +11,7 @@ All kinds of resources with content in or for Japanese. If you have any suggesti
 
 -----
 
-# Other guides and resources
+## Other guides and resources
 
 [TheMoeWay](https://learnjapanese.moe/) - The most popular guide at the moment with the biggest community.
 
@@ -25,9 +25,9 @@ All kinds of resources with content in or for Japanese. If you have any suggesti
 
 [Rentry Resources](https://rentry.co/japanese_resources) - some other resources for Japanese.
 
-# Information about Japanese
+## Information about Japanese
 
-## Dictionaries and translators
+### Dictionaries and translators
 
 [Yomitan search](chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/search.html) - Search inside your Yomitan dictionaries. Can be opened by pressing the extension icon and clicking on magnifying glass.
 
@@ -57,13 +57,13 @@ All kinds of resources with content in or for Japanese. If you have any suggesti
 
 AI chat bots are also able to translate and explain some things, but imperfect.
 
-## Japanese Corpora
+### Japanese Corpora
 
 [Hinoki Project](https://hinoki-project.org/)
 
 [tsukuba](https://tsukubawebcorpus.jp/)
 
-## Grammar
+### Grammar
 
 
 [IMABI](https://imabi.org/) - A modern alternative for Tae Kim's guide, it is probably a better option.
@@ -86,11 +86,11 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [Tofugu](https://www.tofugu.com/japanese/best-kanji-learning-programs/) - The site with info suited more for beginners, many different interesting posts.
 
-## Linguistics
+### Linguistics
 
 [Panates' drive](https://t.me/kurutteiru/84) - A collection of panes linguistics books by Panates, collected together with a recommendation list for beginners. Some of it is in Russian.
 
-## Помощь
+### Помощь
 
 [Japanese StackExchange](https://japanese.stackexchange.com/) - Website for questions about Japanese
 
@@ -100,9 +100,9 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [TheMoeWay Discord](https://discord.gg/tmw) a server for the Learnjapanese.moe community.
 
-# Japanese media
+## Japanese media
 
-## Media by difficulty
+### Media by difficulty
 
 [Jo Mako's Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203) - A huge sheet with different media.
 
@@ -110,9 +110,9 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [JPDB.io](https://jpdb.io/prebuilt_decks) - A bunch of different media rated by difficulty, but difficulty is measured only in terms of vocabulary. Also, the algorithm has a strong bias to shorter works, but there are a bunch of settings.
 
-## Video 
+### Video 
 
-### Subtitles
+#### Subtitles
 
 [Jimaku](https://jimaku.cc/) - New website, the main source of subtitles for anime in Japanese. There is almost everything. It contains the Kitsunekko database, but it is much more convenient.
 
@@ -128,7 +128,7 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [D Addicts](https://www.d-addicts.com/) - Forum for the dramas, there is a chance to find some there.
 
-### Аниме
+#### Аниме
 
 [Рутрекер](https://rutracker.org/forum/index.php) - Russian torrent tracker, has lots of content and many seeders.
 
@@ -140,7 +140,7 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 **Netflix**, **Amazon Prime**, **Disney Plus** - there is a lot of anime there recently, specially Netflix. Also Western content with official dubs and subs for it (they are not the same though). With a Japanese VPN you can get access to a good amount of anime in Japanese.
 
-### Дорамы\Кино
+#### Дорамы\Кино
 
 [RuTracker](https://rutracker.org/forum/index.php) - Some dramas and movies.
 
@@ -158,7 +158,7 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [Raredoramas](https://raredoramas.info/) - For “rare” dramas.
 
-### Japanese TV online
+#### Japanese TV online
 
 [aqstream](https://aqstream.com/jp) - Japanese TV
 
@@ -168,9 +168,9 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [Kwakami TV](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan) - TV online, has the most content.(Android)
 
-## Reading
+### Reading
 
-### Manga
+#### Manga
 
 [Mokuro Moe](https://mokuro.moe/manga/) - Directory of Manga passed through Mokuro, the best option for beginners. You can use [Yomitan](/software/yomitan) on the manga.
 
@@ -188,7 +188,7 @@ Further options are for RAW manga, in which to lookup words you need to use OCR 
 
 [Rawkuma](https://rawkuma.com/) - Can be downloaded or read online.
 
-### Literature
+#### Literature
 
 [YomuJP](https://yomujp.com/) - Texts for beginners.
  
@@ -208,7 +208,7 @@ Further options are for RAW manga, in which to lookup words you need to use OCR 
 
 [Graded Readers MEGA](https://mega.nz/folder/sRdhSC4b#SOdG9R-Q5fF93JumpEwcyw) Archive with books for beginners graded for beginners.
 
-### VNs and other games.
+#### VNs and other games.
 
 [sukebei.nyaa.si](http://sukebei.nyaa.si/) - 18+ version of Nyaa.si (http://nyaa.si/), there are much more VNs.
 
@@ -220,9 +220,9 @@ Further options are for RAW manga, in which to lookup words you need to use OCR 
 
 [NoPayStation](https://nopaystation.com/) - rips of PlayStation games.
 
-## Listening
+### Listening
 
-### Condensed Audio
+#### Condensed Audio
 
 This is an audio taken from anime or other video content, pauses between the lines of dialogue are cut out of it. For beginners, it is a great option, it is much easier than podcasts. It is recommended to listen to stuff you've already watched.
 
@@ -232,11 +232,11 @@ This is an audio taken from anime or other video content, pauses between the lin
 
 [Condensed Audio 3](https://condensedaudiocatalog.com/#)
 
-### Podcasts and radio
+#### Podcasts and radio
 
 [Google Podcast](https://podcasts.google.com/?hl=ja) - The Japanese version of the site, immediately shows recommendations in Japanese.
 
-# May be interesting
+## May be interesting
 
 [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) - My telegram canal about progress and whatever.
 
