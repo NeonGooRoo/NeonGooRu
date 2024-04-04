@@ -1,15 +1,24 @@
 ---
 
 Author:
-title: Японский с удовольствием
+title: Japanese with ease
+shortTitle: For beginners
+description: How to start learning japanese effectively and with fun.
 
+category: 
+ - guide
+tag:
+ - must-have
+ - for beginners
+Date: 
+ReadingTime: 10
 ---
 
 If you want to contribute to the development of the site, have ideas for new articles, pages, etc., want to make edits to existing material, contact me.
 
 ## Why are you here?
 
-Please, don't be lazy, read between the lines. Especially guides about software. 
+Please, don't be lazy, don't read between the lines. Especially guides about software. 
 
 This guide is written for people who primarily want to learn to understand the Japanese language in any form: writing, speech, it doesn't matter. If you want to watch anime and understand everything without English subtitles, read raw manga, watch Japanese YouTube or listen to Japanese music, you've come to the right place. If your main goal is to become a translator/linguist/pass the JLPT within a certain period/learn to speak in 30 days - there may be arguments why this approach is not the best. This guide is written for people who want to perceive the real language and eventually learn to express themselves in it. This method is called immersion.
 
