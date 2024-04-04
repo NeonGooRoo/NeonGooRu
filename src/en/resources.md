@@ -236,6 +236,20 @@ This is an audio taken from anime or other video content, pauses between the lin
 
 [Google Podcast](https://podcasts.google.com/?hl=ja) - The Japanese version of the site, immediately shows recommendations in Japanese.
 
+[Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) - links to specific podcast
+
+[Podcast Republic](https://learnjapanese.moe/resources/#audiobooks-podcasts:~:text=Podcast%20Republic%20%2D%20Change%20the%20country%20to%20Japan%20and%20look%20at%20popular.) - Change the country to Japan and look at popular.
+
+On platforms like YouTube or Spotify you can search for **聴く anime** and find plenty of stuff similar to CD Drama, which uses easier language than most podcasts.
+
+#### Audiobooks
+
+[Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - Some audiobooks
+
+
+
+
+
 ## May be interesting
 
 [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) - My telegram canal about progress and whatever.
