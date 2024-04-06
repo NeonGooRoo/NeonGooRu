@@ -1,10 +1,18 @@
 ---
-
 Author:
-title: MEXT
+title: MEXT information
 
+shortTitle: MEXT
+description: Some info about what is MEXT scholarship and how to pass it.
+
+category: 
+ - guide
+tag:
+ - in the works
+Date: 
+ReadingTime: 10
 ---
-🚧 Информация про MEXT (в работе). 🚧
+🚧 Information about MEXT (in the making). 🚧
 
-Если есть предложения, пишите [сюда](https://t.me/neongooru)
+If you want to contribute, text me [here](https://t.me/neongooru)
 

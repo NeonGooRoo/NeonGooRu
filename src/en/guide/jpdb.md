@@ -1,8 +1,13 @@
 ---
-
 Author:
-title: JPDB.io для чайников
-
+title: JPDB.io for dummies
+shortTitle: JPDB
+description: How to use JPDB instead of Anki and why.
+category: 
+ - guide
+tag:
+Date: 
+ReadingTime: 10
 ---
 
 

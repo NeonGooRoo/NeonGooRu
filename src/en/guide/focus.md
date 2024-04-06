@@ -1,8 +1,17 @@
 ---
-
 Author:
-title: Как фокусироваться
+title: How to focus
+shortTitle: Focus
+description: How to focus on your Japanese studies and what can help.
 
+category: 
+ - guide
+tag:
+ - tools
+ - lifehacks
+ - in the works
+Date: 
+ReadingTime: 10
 ---
 
 

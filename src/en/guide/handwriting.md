@@ -1,12 +1,21 @@
 ---
-
 Author:
-title: Рукопись
+title: Handwriting
 
+shortTitle: Handwriting
+description: A guide on how to learn how to write in Japanese.
+
+category: 
+ - guide
+tag:
+ - handwriting
+ - in the works
+Date: 
+ReadingTime: 10
 ---
-🚧 Гайд о рукописи (в работе). 🚧
+🚧 Handwriting guide (in the making). 🚧
 
-Если есть предложения, пишите [сюда](https://t.me/neongooru)
+If you want to contribute, text me [here](https://t.me/neongooru)
 
 -----
 
