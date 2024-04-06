@@ -19,7 +19,7 @@ export const ruNavbar = navbar([
       {
         text: "JPDB",
         icon: "/ico/jpdb.png",
-        link: "jpdb-guide",
+        link: "jpdb",
       },
       {
         text: "Как фокусироваться",
