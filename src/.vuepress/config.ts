@@ -1,10 +1,22 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { hopeTheme } from "vuepress-theme-hope";
+import { viteBundler } from '@vuepress/bundler-vite'
 
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
+
+  bundler: viteBundler({
+    viteOptions: {
+      server: {
+        fs: {
+          cachedChecks: false,
+        },
+      },
+    },
+  }),
+
   base: "/",
 
   

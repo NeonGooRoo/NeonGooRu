@@ -1,11 +1,13 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, ruNavbar } from "./navbar/index.js";
 import { enSidebar, ruSidebar } from "./sidebar/index.js";
-import { viteBundler } from '@vuepress/bundler-vite'
+
 
 
 
 export default hopeTheme({
+
+  
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
@@ -49,17 +51,6 @@ export default hopeTheme({
       },
     },
 
-    vuePreResolvers: {
-      bundler: viteBundler({
-        viteOptions: {
-          server: {
-            fs: {
-              cachedChecks: false,
-            },
-          },
-        },
-      }),
-    },
 
 
     "/": {
@@ -83,54 +74,34 @@ export default hopeTheme({
     },
   },
 
+  
   plugins: {
     
     blog: true,
+
     searchPro: {
         
-          locales: {
-            "/": {
-              lang: "ru-RU",
-            },
-    
-            "/en/": {
-              lang: "en-US",
-            },
-          },
-        
-      },
-
-
-/*
-    docsearch: {
-      appId: "",
-      apiKey: "",
-      indexName: "",
       locales: {
-        '/': {
-          placeholder: '',
-          translations: {
-            button: {
-              buttonText: '',
-            },
-          },
+        "/": {
+          lang: "ru-RU",
         },
-        '/en/': {
-          placeholder: 'Search Documentation',
-          translations: {
-            button: {
-              buttonText: 'Search Documentation',
-            },
-          },
+
+        "/en/": {
+          lang: "en-US",
         },
       },
-    }, */
+    
+  },
+
+
 
     copyright: {
       global: true,
       author: "NeonGooRoo",
       license: "MIT",
 
+
+      
     },
     comment: {
       provider: "Giscus",
@@ -176,6 +147,31 @@ export default hopeTheme({
       vPre: true,
       
 
+/*
+    docsearch: {
+      appId: "",
+      apiKey: "",
+      indexName: "",
+      locales: {
+        '/': {
+          placeholder: '',
+          translations: {
+            button: {
+              buttonText: '',
+            },
+          },
+        },
+        '/en/': {
+          placeholder: 'Search Documentation',
+          translations: {
+            button: {
+              buttonText: 'Search Documentation',
+            },
+          },
+        },
+      },
+    }, */
+
       ///revealJs: {
       ///  plugins: ["highlight", "math", "search", "notes", "zoom"],
       ///  },
@@ -216,6 +212,11 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+
+  },
+});
+
+
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
@@ -273,5 +274,3 @@ export default hopeTheme({
     //     ],
     //   },
     // },
-  },
-});
