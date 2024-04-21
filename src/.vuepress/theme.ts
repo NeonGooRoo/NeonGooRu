@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, ruNavbar } from "./navbar/index.js";
 import { enSidebar, ruSidebar } from "./sidebar/index.js";
+import { viteBundler } from '@vuepress/bundler-vite'
 
 
 
@@ -48,6 +49,17 @@ export default hopeTheme({
       },
     },
 
+    vuePreResolvers: {
+      bundler: viteBundler({
+        viteOptions: {
+          server: {
+            fs: {
+              cachedChecks: false,
+            },
+          },
+        },
+      }),
+    },
 
 
     "/": {

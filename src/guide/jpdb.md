@@ -6,7 +6,7 @@ shortTitle: JPDB
 description: Как использовать JPDB вместо Anki и почему.
 category: 
  - гайд
-tag:
+
 Date: 
 ReadingTime: 10
 ---

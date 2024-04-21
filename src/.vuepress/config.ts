@@ -7,6 +7,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 export default defineUserConfig({
   base: "/",
 
+  
   head: [
 
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],

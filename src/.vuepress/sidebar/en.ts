@@ -63,6 +63,11 @@ export const enSidebar = sidebar({
             link: "jl",
           },
           {
+            text: "Memento",
+            icon: "/ico/memento.ico",
+            link: "memento",
+          },
+          {
             text: "MPV",
             icon: "/ico/mpv-icon.png",
             link: "mpv",
