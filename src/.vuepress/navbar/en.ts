@@ -51,6 +51,10 @@ export const enNavbar = navbar([
     link: "/en/resources",
   },
   {
+    text: "FAQ",
+    link: "faq"
+  },
+  {
     text: "Blog",
     link: "/en/blog/",
   },

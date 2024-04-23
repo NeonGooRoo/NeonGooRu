@@ -3,15 +3,15 @@ import { computed, defineComponent, h } from "vue";
 import { useRouteLocale } from "vuepress/client";
 
 export default defineComponent({
-  name: "SocialLink",
+  name: "sociallink",
 
   setup() {
     const routeLocale = useRouteLocale();
 
     const link = computed(() =>
       routeLocale.value === "/zh/"
-        ? "https://jq.qq.com/?_wv=1027&k=rATJyxGK"
-        : "https://t.me/vuepressthemehope",
+        ? "https://t.me/kurutteiru"
+        : "https://t.me/kurutteiru",
     );
     const icon = computed(
       () =>

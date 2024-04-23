@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, ruNavbar } from "./navbar/index.js";
 import { enSidebar, ruSidebar } from "./sidebar/index.js";
-
+import sociallink from "./components/sociallink.js";
 
 
 
@@ -19,12 +19,14 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  
+  start: ["Brand"],
+  center: ["Links"],
+  end: ["Language", "sociallink", "Repo", "Outlook", "Search"],
+
 
   logo: "/ico/logo.png",
 
   repo: "neongooroo/neongooru",
-
 
   docsDir: "src",
 
