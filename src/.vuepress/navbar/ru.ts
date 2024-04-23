@@ -9,6 +9,10 @@ export const ruNavbar = navbar([
     link: "/",
   },
   {
+    text: "Вопросы",
+    link: "faq"
+  },
+  {
     text: "Для начинающих",
     link: "/guide/how-to.md",
   },
@@ -52,6 +56,7 @@ export const ruNavbar = navbar([
     text: "Ресурсы",
     link: "resources",
   },
+
   {
     text: "Лента",
     link: "/blog/",

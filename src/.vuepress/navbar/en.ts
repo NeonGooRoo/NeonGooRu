@@ -5,7 +5,7 @@ export const enNavbar = navbar([
     text: "Home",
     icon: "home",
     link: "/en/",
-  },
+  },  
   {
     text: "For beginners",
     link: "/en/guide/how-to.md",
@@ -54,4 +54,5 @@ export const enNavbar = navbar([
     text: "Blog",
     link: "/en/blog/",
   },
+
 ]);

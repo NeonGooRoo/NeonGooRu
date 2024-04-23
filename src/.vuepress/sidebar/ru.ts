@@ -3,6 +3,11 @@ import { sidebar } from "vuepress-theme-hope";
 export const ruSidebar = sidebar({
   "/":  [
     "",
+    {
+      text: "Вопросы",
+      link: "faq"
+    },
+
     "guide/how-to",
     {
       text: "Гайды",
