@@ -24,6 +24,11 @@ export const ruSidebar = sidebar({
           link: "focus",
         },
         {
+          text: "AnkiCollab",
+          icon: "/ico/collab.png",
+          link: "ankicollab",
+        },  
+        {
           text: "Учет времени 🚧",
           icon: "/ico/timer.svg",
           link: "timetracking",
@@ -115,11 +120,21 @@ export const ruSidebar = sidebar({
   
       ],
       
+      
+    },
+    {
+      text: "Вопросы",
+      link: "/faq",
+    },
+    {
+      text: "Лета",
+      link: "/blog",
     },
 
 
   ], 
 
   "/software/": "structure",
+
   
 });

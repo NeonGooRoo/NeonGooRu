@@ -25,6 +25,11 @@ export const enNavbar = navbar([
         link: "focus",
       },
       {
+        text: "AnkiCollab",
+        icon: "/ico/collab.png",
+        link: "ankicollab",
+      },  
+      {
         text: "Managing time 🚧",
         icon: "/ico/timer.svg",
         link: "timetracking",

@@ -27,6 +27,11 @@ export const ruNavbar = navbar([
         link: "focus",
       },
       {
+        text: "AnkiCollab",
+        icon: "/ico/collab.png",
+        link: "ankicollab",
+      },  
+      {
         text: "Учет времени 🚧",
         icon: "/ico/timer.svg",
         link: "timetracking",

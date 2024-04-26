@@ -23,6 +23,11 @@ export const enSidebar = sidebar({
             link: "focus",
           },
           {
+            text: "AnkiCollab",
+            icon: "/ico/collab.png",
+            link: "ankicollab",
+          },  
+          {
             text: "Managing time 🚧",
             icon: "/ico/timer.svg",
             link: "timetracking",
@@ -115,7 +120,14 @@ export const enSidebar = sidebar({
         ],
         
       },
-  
+      {
+        text: "FAQ",
+        link: "/faq",
+      },
+      {
+        text: "Blog",
+        link: "/blog",
+      },
   
     ], 
   
