@@ -46,7 +46,7 @@ order: 2
 
 Для извлечения максимум удобства и функционала из анки, нам нужно использовать аддоны (дополнения). Чтобы не скачивать вам их вручную, я сохранил сразу пачку в виде файлов.
 
-Скачайте [данный архив](https://drive.google.com/file/d/12ftNxfUQxw1JLI3KCor9-uYbA_O7hWBp/view?usp=sharing) с аддонами, и перенесите папку `Addons21`
+Скачайте [данный архив](https://drive.google.com/file/d/1kdgK_9dIgHC0u2rQBEMQ5OetZ4Mjtvmt/view?usp=drive_link) с аддонами, и перенесите папку `Addons21`
 
 `
 C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
@@ -66,8 +66,7 @@ C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
 Чтобы установить аддон, вам нужно скопировать строку с цифрами со страницы, в меню аддонов в Анки нажать на **Загрузить дополнение** и вставить туда код.
 
 
-**[Advanced Browser](https://ankiweb.net/shared/info/874215009)** - Больше функций для браузера карточек.
-
+**[Anki Collab](https://ankiweb.net/shared/info/1957538407)** - аддон для одноименного сервиса, позволяющего редактировать колоды группой людей.
 
 **[AJT Japanese](https://ankiweb.net/shared/info/1344485230)** - позволяет очень удобно создавать фуригану и информацию и питчах.
 
@@ -91,9 +90,7 @@ C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
 
 **[JPMN Manager](https://ankiweb.net/shared/info/301910299)** - нужна для корректной работы формата карточек.
 
-**[Kanji Table](https://ankiweb.net/shared/info/1828617820)** - показывает какие кандзи есть среди ваших слов, есть красивая табличка.
-
-**[Migaku Kanji GOD](https://ankiweb.net/shared/info/1872210448)** - большой аддон с кучей функционала и информации по кандзи, также есть таблица со всеми изученными кандзи. 
+**[Kanji Grid](https://ankiweb.net/shared/info/909972618)** - показывает какие кандзи есть среди ваших слов, есть красивая табличка.
 
 **[Learning Step and Review Interval Retention](https://ankiweb.net/shared/info/1949865265)** - более подробная статистика.
 
