@@ -9,7 +9,7 @@ category:
  - гайд
 tag:
  - в работе
-
+icon: "/ico/school.svg"
 Date: 
 ReadingTime: 10
 ---

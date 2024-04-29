@@ -29,6 +29,11 @@ export const ruSidebar = sidebar({
           link: "ankicollab",
         },  
         {
+          text: "Словари",
+          icon: "/ico/dictionary.svg",
+          link: "dictionaries",
+        },  
+        {
           text: "Учет времени 🚧",
           icon: "/ico/timer.svg",
           link: "timetracking",

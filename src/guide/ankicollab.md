@@ -9,6 +9,7 @@ tag:
  - инструменты
  - Anki
 Date: 
+icon: "/ico/collab.png"
 ReadingTime: 10
 ---
 

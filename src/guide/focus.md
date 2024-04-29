@@ -11,6 +11,7 @@ tag:
  - лайфхак
  - в работе
 Date: 
+icon: "/ico/focus.svg"
 ReadingTime: 10
 ---
 

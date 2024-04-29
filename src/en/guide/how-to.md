@@ -202,7 +202,7 @@ Before installing anything, including **Anki**, be sure to read the [introductio
 
 - **Cloe** - an on-the-fly OCR program. 
 
-- **Textractor** - a program for extracting text from visual novels so that it can be looked up using **Yomitan\JL** and flashcards can be made. There are also some alternatives, more details in the article on VNs (/vn.md). **Agent** is an alternative for some apps that are not compatible. 
+- **Textractor** - a program for extracting text from visual novels so that it can be looked up using **Yomitan\JL** and flashcards can be made. There are also some alternatives, more details in the article on VNs (/software/vn.md). **Agent** is an alternative for some apps that are not compatible. 
 
 - **Yomininja** - when nothing else works with a videogame of your choice this is your last option.
 
