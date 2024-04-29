@@ -1,1 +1,0 @@
-const i="/imgvid/extention.png",n="/imgvid/kanjidic.png",s="/imgvid/monoling.png",o="/imgvid/biling.png",t="/imgvid/pitch.png",g="/imgvid/frequency.png",p="/imgvid/dictionaries.png";export{i as _,n as a,s as b,o as c,t as d,g as e,p as f};
