@@ -98,7 +98,7 @@ export default hopeTheme({
 
 
     copyright: {
-      global: true,
+      global: false,
       author: "NeonGooRoo",
       license: "MIT",
 
