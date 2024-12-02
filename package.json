@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.9",
+    "@vuepress/cli": "^2.0.0-rc.9",
     "@vuepress/plugin-blog": "2.0.0-rc.26",
     "@vuepress/plugin-google-analytics": "2.0.0-rc.21",
     "vue": "^3.4.25",
@@ -20,6 +21,8 @@
     "vuepress-theme-hope": "2.0.0-rc.37"
   },
   "dependencies": {
+    "dashjs": "^4.7.4",
+    "hls.js": "^1.5.17",
     "markdown-it-html5-embed": "^0.3.3",
     "reveal.js": "^5.0.5",
     "vidstack": "^1.10.9"
