@@ -96,7 +96,7 @@ C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
 
 **[Learning Step and Review Interval Retention](https://ankiweb.net/shared/info/1949865265)** - более подробная статистика.
 
-**[More Overview Stats](https://ankiweb.net/shared/info/738807903)** - больше информации на главном меню, сильно конфигурируется. Если вам кажется он захламленным и бесполезным, можно удалить.
+**[More Overview Stats](https://ankiweb.net/shared/info/738807903)** - больше информации на главном меню, сильно конфигурируется. 
 
 **[Progress Graphs and Stats for Learned and Matured Cards](https://ankiweb.net/shared/info/266436365)** - больше статистики.
 
@@ -118,198 +118,22 @@ C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
 Если у вас iOS устройство и вы не готовы тратить кучу денег, можете скачать [отсюда](https://ipaomtk.com/ankimobile-flashcards-pro/) **`**iOS install**`** , и потом в `Настройки/Основные/VPN` разрешить "*Bank of Chongqing Co,Ltd.*"
 
 
-## Настройка колоды
+## Настройка
 
-Для начала нужно создать формат карточки, это делается через:
+Анки подается почти безграничным настройкам, при наличии навыков. Далее будет показан рекомендуемый минимум, но я бы также рекомендовал вам изучить возможности данной программы в интернете самостоятельно. 
 
-`инструменты > JPMN Manager > Install jp-mining-note`
+В главном меню, сначала настройки Anki (`ctrl+P`). Во вкладке "Учёба"  выберете час, когда для вас, когда будет меняться день в Anki, а также **Лимит опережения** выставите на **999**. Закройте настройки Anki.
 
-![](/imgvid/jpmn.png)
+Теперь нужно скачать формат карточки [отсюда](https://drive.google.com/file/d/1Z0a84TjlwUcbappWEC24wcELSfSDLo7H/view?usp=sharing) и установить его открыв `Mining.apkg`. Убедитесь что поставлена галочка "Импортировать предустановки колод" (Import any deck presets) и нажмите "Импортировать". Это формат карточки **"Lapis"**, он очень удобен. Подробнее о нем в репозитории [GitHub](https://github.com/donkuri/lapis?tab=readme-ov-file#how-to-use-lapis).
 
-У вас появится колода `JPMN-Examples`, переименуйте её в `Mining`.  Именно такое, либо придется в ручную менять настройки Yomitan.
+У вас появится колода `Mining`. Не меняйте название колоды и не помещайте её внутрь других колод, синхронизация с другими приложениями (Yomitan, Mememento и т.д) может сломаться.
 
-![](/imgvid/rename.png)
+Можно нажать на **Список** (он же браузер карточек, также открывается через `ctrl+B`). У вас будет лишь одна строка - карточка, нажмите на неё, справа будут показаны все поля. Нажав на "карточки" откроется конфигурация формата карточки и ёе превью. Слева вы можете изменять HTML\CSS код под ваши предпочтения, если есть желание. Подробнее о кастомизации в репозитории [GitHub](https://github.com/donkuri/lapis?tab=readme-ov-file#how-to-use-lapis).
 
-Зайдите в `C:\Users\**ВАШЕИМЯПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2\**ПРОФИЛЬАНКИ**\collection.media`
-
-Если у вас только один профиль анки, это ваш. Найдите там файл `_jpmn-options.js`, откройте его с помощью блокнота, удалите его содержимое вставьте то, что снизу. Сохраните и закройте текстовый документ.
-
-::: details **КОД ТУТ**
-`window.JPMNOptions = {
-
-    // Insert any runtime options here! They should be of the form:
-    //
-    //     "key": value,
-    //
-    // Some common examples are shown below.
-
-    // Enables colored pitch accent
-    "autoPitchAccent.coloredPitchAccent.enabled": true,
-
-    // Enables image blur
-    "imgStylizer.mainImage.blur.enabled": true,
-
-    // Hides the first line of most definitions, as well as the number in the list
-    "blockquotes.simplifyDefinitions.enabled": true,
-
-// ==========================================================================
-    // = keybinds =
-// ==========================================================================
-
-    // RESERVED KEYS (by anki):
-    // - e (edit)
-    // - r (replay)
-    // - t (stats)
-    // - y (sync)
-    // - i (card info)
-    // - o (options)
-    // - a (add)
-    // - s (idk exactly what this does tbh)
-    // - d (deck)
-    // - f (filtered deck options)
-    // - v (play recorded voice)
-    // - b (browse)
-    // - m (menu)
-    // - 1, 2, 3, 4 (again, hard, good, easy)
-    // - 5 (pause audio)
-    // - 6 (audio -5s)
-    // - 7 (audio +5s)
-    // - space (good)
-    // - enter (good)
-    //
-    // RESERVED KEYS (by AJT Flexible grading):
-    // - u (undo)
-    // - h, j, k, l: hard / again / good / easy
-    //
-    // FREE KEYS:
-    // - (left)  q w g z x c
-    // - (right) p n 8 9 0 , . ; ' [ ]
-    //
-    // If you want to customize the keybinds, you must find the exact key code
-    // that corresponds to your key. To do so, set "debug-level" to 0, press the
-    // desired key(s), and look at the bottom of the debug log (under the info
-    // circle) within the note. You may need to scroll down.
-
-    "keybinds.enabled": true,
-
-    // Keybind to toggle between showing the sentence and word on click and hover cards.
-    // Equivalent to either clicking on the sentence/word on a click card,
-    // or hovering over the word on a hover card.
-    "keybinds.toggleHybridSentence": ["KeyN"],
-
-    // Keybind to toggle between showing the tested word in a raw sentence card.
-    // Equivalent to clicking on the "show" button.
-    // This is the same as the above because both should never happen at the same time.
-    "keybinds.toggleHighlightWord": ["KeyN"],
-
-    // Keybind to toggle a vocab card's full sentence display (front side).
-    // Techinically can be Shift / n as it doesn't interfere with the other two above.
-    "keybinds.toggleFrontFullSentenceDisplay": ["Quote"],
-
-    "keybinds.playSentenceAudio": ["KeyP"],
-
-    "keybinds.playWordAudio": ["KeyR"],
-
-    // Equivalent to toggling the hint show/hide
-    "keybinds.toggleHintDisplay": ["Period"],
-
-    "keybinds.toggleSecondaryDefinitionsDisplay": ["KeyQ"],
-
-    "keybinds.toggleAdditionalNotesDisplay": ["BracketRight"],
-
-    "keybinds.toggleExtraDefinitionsDisplay": ["KeyW"],
-
-    "keybinds.toggleExtraInfoDisplay": ["BracketLeft"],
-}
-`
-::: 
-
-Возвращаемся в Anki, нажимаем **Список** (это и есть браузер карточек), слева находим **Типы записей** и в них нажимаем на** JP Mining Note**. Вам показывается все карточки данного типа. Выберите любую из них, здесь вы видите все поля одной карточки, далее справа сверху нажмите на **Карточки**. 
 
 ![](/imgvid/browser.png)
 
-В открывшемся окне мы видим настройки формата карточки. Здесь можно корректировать то, как выглядит карточка, какие используются поля и стили. Справа сверху, под **шаблон** нам нужно открыть **таблицу стилей**. Промотайте в самый низ, и под `/* ================ jp-mining-note: INSERT CUSTOM CSS BELOW ================ */` вставьте код ниже. Подсказки на скриншотах ниже.
-
-::: details  **КОД ТУТ**
-
-.glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text ol li[data-details="JMdict (English)"] .dict-group__tag-list {
-    display: none;
-}
-.glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line {
-    display: none;
-}
-.glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line-break {
-    display: none;
-}
-
-
-.glossary-text--primary-definition ol {
-    list-style: none;
-    padding-left: 0em;
-}
-
-:::
-
-![](/imgvid/format.png) 
-
-Теперь можно закрыть настройки карточки и браузер. В главном меню анки, сначала настройки Anki (`ctrl+P`). Во вкладке "Учёба"  выберете час, когда для вас, когда будет меняться день в Anki, а также **Лимит опережения** выставите на **999**. Закройте настройки Anki.
-
-Теперь нажмите на шестеренку справа от вашей колоды и нажмите на **Параметры**. Заполните как в таблице. Если значения нет в таблице, оставить как есть.
+Теперь перейдем к настройкам колоды. В главном меню (вкладка "Колоды") нажмите на шестеренку справа от вашей колоды - **Параметры**. Заполните как в таблице далее. Если значения нет в таблице, оставить как есть.
 
 ::: danger ВАЖНО!
 Это не настройки конкретно этой колоды, есть шаблоны настроек. Если вы планируете иметь разные настройки для разных колод, делайте разные шаблоны. Нажмите на стрелочку справа от кнопки **сохранить** и **добавить предустановку**.
@@ -320,17 +144,18 @@ C:\Users\**ВАШ ИМЯ ПОЛЬЗОВАТЕЛЯ**\AppData\Roaming\Anki2
 | Новых карточек в день                   | **свое**  | Сколько новых карточек в день вы хотите учить                          |
 | Максимум повторяемых в день             | 9999      | Сколько повторений максимум. 9999 потому что это не нужно ограничивать |
 | Шаги изучаемых                        | 1m 5m 20m | Больше об этом далее                                                   |
-| Шаги переучиваемых                      | 2m 10m    |                                                                        |
+| Шаги переучиваемых                      | 5m 15m    |                                                                        |
 | Порог для приставучих                   | 5         | Приставучие (Личи) - карты, которые много раз забыл                    |
+|Что делать с приставучими                 | Только пометить| добавляет тег "leech" по достижению порога (для вас не важно). |
 | Максимум секунд для ответа              | 6-8       | Количество времени на ответ. Это просто цифра, которая отображается.   |
 | Показывать время ответа                 | вкл.      |                                                                        |
 | FSRS                                    | вкл.      | новый алгоритм, обязательно вкл                                        |
-| Желаемое усвоение                       | 0.80      | Так называемый Retention, об этом будет далее.                         |
+| Желаемое усвоение                       | 0.80      | См. далее                        |
 | Перепланировать карточки при изменениях | вкл.      |                                                                        |
 
-Введите все как выше и сохраните. На счет настройки FSRS, после 1000 повторений, вам нужно будет вернуться в настройки и **Оптимизировать веса FSRS**. Лучше это делать +- раз в месяц потом, чтобы подсчитывал алгоритм идеально под вас промежутки. Для более тонкой настройки можно использовать `инструменты > FSRS4Anki Helper`, подробнее об этом есть на странице расширения. 
+Сохраните. На счет настройки FSRS, после 1000 повторений, вам нужно будет вернуться в настройки и **Оптимизировать веса FSRS**. Лучше это делать +- раз в месяц, чтобы алгоритм подсчитывал промежутки под вас и было меньше повторений. Для более тонкой настройки можно использовать `инструменты > FSRS4Anki Helper`, подробнее об этом есть на странице расширения. 
 
-Перезагрузите анки и все готово! Теперь вам нужно либо начать майнить карточки самому, либо использовать готовую колоду. Настоятельно рекомендуется майнить слова, а не использовать чужие колоды, потому что это дает лучше понимание а также легче запоминается, но если вы только начинаете, можете использовать [данную колоду](https://ankiweb.net/shared/info/237782999?cb=1716410005127) на 1500 слов для начинающих.
+Перезагрузите анки и все готово! Теперь вам нужно либо начать майнить карточки самому, либо использовать готовую колоду. Настоятельно рекомендуется майнить слова, а не использовать чужие колоды, потому что это дает лучше понимание а также легче запоминается, но если вы только начинаете, я рекомендую использовать [Kaishi 1.5k](https://ankiweb.net/shared/info/237782999?cb=1716410005127) на 1500 слов для начинающих.
 
 Если у вас уже есть колода, которую вы бы хотели перенести в новый формат, следуйте [данному гайду](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) **[E]** (мне лень объяснять, там не сложно)
 
