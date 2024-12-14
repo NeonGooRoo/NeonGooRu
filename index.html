@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        // Get the current path from the URL
+        const currentPath = window.location.pathname;
+
+        // Define the new domain
+        const newDomain = "https://kotowari.ru";
+
+        // Redirect to the new domain, preserving the path
+        window.location.href = newDomain + currentPath;
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, <a id="redirectLink" href="#">click here</a>.</p>
+    <script>
+        // Update the fallback link in case JS fails
+        document.getElementById('redirectLink').href = newDomain + currentPath;
+    </script>
+</body>
+</html>
